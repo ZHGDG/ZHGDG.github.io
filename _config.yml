@@ -1,0 +1,87 @@
+root: /
+permalink: /:year-:month/:title/
+avatar: http://zoomq.qiniudn.com/ZHGDG/design/131129_ZHGDG_LOGO_h200.png
+# Name of your site (displayed in the header)
+name: ZHGDG.org
+# Short bio or description (displayed in the header)
+description: GDG livin ZhuHai life.
+
+markdown: kramdown
+highlighter: pygments
+markdown_ext:  markdown,md
+
+paginate: 3
+
+title: Blog珠海GDG
+authors: 
+    zhgdg:
+        name: zhgdg.org
+        display_name: GDG ZhuHai
+        gravatar: 4d3d6708118012707d003ceb80c29149
+        email: support@zhgdg.org
+        web: http://blog.zhgdg.org/about.html
+        github: ZHGDG
+        gittip: https://www.gittip.com/ZoomQuiet/
+        coderwall: zoomquiet
+    zoomq:
+        name: Zoom Quiet
+        display_name: Zoom.Quiet
+        gravatar: 26221c6d3cedc50c506aa699e2765252
+        email: i@zoomquiet.io
+        web: http://zoomquiet.io
+        github: ZoomQuiet
+        gittip: https://www.gittip.com/ZoomQuiet/
+        coderwall: zoomquiet
+    snowy:
+        name: Snowy Lin
+        display_name: Snowy Lin
+        gravatar: 97a670722db5d26b7cac539533587ff7 
+        email: hellosnowy1201@gmail.com
+        web: http://blog.zhgdg.org/about.html
+        github: Snowy-Lin
+        gittip: https://www.gittip.com/ZoomQuiet/
+        coderwall: snowy-lin
+    jeremyt:
+        name: Jeremy Tchao
+        display_name: Jeremy Tchao
+        gravatar: d4ca230dff052b2884f47c492d2837d6
+        email: jeremyzao@gmail.com
+        web: http://weibo.com/jeremyzao
+        github: Jeremy-Tchao
+        gittip: https://www.gittip.com/Jeremytchao
+        coderwall: jeremy_tchao
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: zhgdg2gitcafe
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-34850864-1
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: http://blog.zhgdg.org
+
+# If you're hosting your site at a Project repository on GitHub pages 
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+# The release of Jekyll Now that you're using
+version: v1.0.0
+
+# Set the Sass partials directory, as we're using @imports
+#sass:
+#  sass_dir: _scss
+#  style: :compressed #:expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
