@@ -7,7 +7,7 @@ name: ZHGDG.org
 description: GDG livin ZhuHai life.
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 markdown_ext:  markdown,md
 
 paginate: 3
