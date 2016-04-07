@@ -11,6 +11,7 @@ highlighter: rouge
 markdown_ext:  markdown,md
 
 paginate: 3
+paginate_path: '/page:num'
 
 title: Blog珠海GDG
 authors: 
@@ -76,8 +77,11 @@ version: v1.0.0
 #  style: :compressed #:expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
+#gems:
+#  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-archives
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
