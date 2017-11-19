@@ -7,7 +7,7 @@ categories: GdgDAMA
 tags:  gdg 珠的自白 dm wechat people
 ---
 
-![](http://devrel.zoomquiet.io/data/20140511103104/d006836f2091b154ce18cb7a4a559c8e_b.jpg)
+![d006836f2091b154ce18cb7a4a559c8e_b](http://devrel.zoomquiet.io/data/20140511103104/d006836f2091b154ce18cb7a4a559c8e_b.jpg)
 
 
 我们可能面对的是中文互联网最糟糕的时代. 而且,以后可能还会继续糟糕下去. 
@@ -15,7 +15,7 @@ tags:  gdg 珠的自白 dm wechat people
 
 <!--more-->
 
-来自: [太空堡垒](http://zhuanlan.zhihu.com/Battlestar)
+来自: [太空堡垒:我们不能轻易把这个世界交给那些坏人](https://zhuanlan.zhihu.com/p/19732383)
 
 我曾经在过去的每一个网络社区中都看到过类似的节奏. 从最早的新浪论坛,到后来的西祠胡同和天涯社区,以及豆瓣和早期的时光网,除了一直没有开放的大杂院外,每一个社区最后都要走过这样一个节奏. 
 
