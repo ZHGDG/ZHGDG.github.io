@@ -3,16 +3,21 @@
 <br/>
 
 <pre>
-|_|0|_|
-|_|_|0|
-|0|0|0|
+
+    .O.
+    ..O
+    OOO
+
 </pre>
 
 <h2>加入 珠海GDG</h2>
 <ol>
-    <li>注册 <a href="https://plus.google.com">G+</a></li>
-    <li>关注 <a href="https://plus.google.com/+GDGZhuHaiOrg">GDG Zhuhai</a></li>
-    <li>成为 <a href="https://developers.google.com/groups/chapter/113382777332300419074/">GDG Zhuhai</a>开发者</li>
+    <li>注册 <a href="https://www.meetup.com/">Meetup</a>
+        </li>
+    <li>关注 <a href="https://www.meetup.com/Zhuhai-GDG/">Zhuhai GDG</a>
+        </li>
+    <li>或扫描: <img src="http://zhgdg.zoomquiet.top/res/qrcode/2meetup.png?imageView2/2/w/360" alt="2meetup" />
+        </li>
 </ol>
 
 <p>
@@ -62,7 +67,7 @@
 <ul>
 <li>搜索微信号 <code>GDG-ZhuHai</code></li>
 <li>或查找公众号: <code>GDG珠海</code></li>
-<li>或扫描: <img src="http://zoomq.qiniudn.com/ZHGDG/design/qrcode_for_gh_5e32c47b5b23_258.jpg" alt="qrcode_for_gh_5e32c47b5b23_258.jpg" /></li>
+<li>或扫描: <img src="http://0.zoomquiet.top/ZHGDG/design/qrcode_for_gh_5e32c47b5b23_258.jpg" alt="qrcode_for_gh_5e32c47b5b23_258.jpg" /></li>
 </ul>
 
 
@@ -71,8 +76,12 @@
 <ul>
 <li>邮件列表: gdg-zhuhai@googlegroups.com
   (可发空邮件到 gdg-zhuhai+subscribe@googlegroups.com 即完成订阅)</li>
+<!--
 <li>微博: <a href="http://weibo.com/gdgzh">@GDG珠海</a></li>
-<li>微信: GDG珠海</li>
 <li>G+ 主页: <a href="https://plus.google.com/113382777332300419074/about">GDG ZhuHai</a></li>
 <li>G+ 社群: <a href="https://plus.google.com/communities/104258079165358533994">ZhuHai GDG</a></li>
+-->
+<li>微信: GDG珠海</li>
+<li>博客: <a href="http://blog.zhgdg.org/about/"> 珠海GDG | GDG Livin ZhuHai Life;-)</a></li>
 </ul>
+
