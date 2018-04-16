@@ -2,13 +2,8 @@
 <p>以上...</p>
 <br/>
 
-<pre>
-
-    .O.
-    ..O
-    OOO
-
-</pre>
+<img alt='hacker emblem' 
+    src='http://www.catb.org/hacker-emblem/glider-small.png' />
 
 <h2>加入 珠海GDG</h2>
 <ol>
