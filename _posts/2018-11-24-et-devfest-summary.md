@@ -111,7 +111,7 @@ tags:  gdg event DevFest summary
 
 ![4-zoom.us-IMG_0278.jpg(JPEG 图像,1242x1965 像素) - 缩放 (48%)](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/f/4-zoom.us-IMG_0278.jpg?imageView2/2/w/360)
 
-> 用 zoom.us 随时可以实践空间, 拉任何一位讲师来分享
+> 用 zoom.us 随时可以跨越空间, 召唤任何一位讲师来分享
 
 
 ## 作业:
