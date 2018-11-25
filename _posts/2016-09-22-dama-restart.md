@@ -28,7 +28,7 @@ tags:  gdg 珠的自白 dm wechat DAMADAMA
     + ..俺希望看到大妈对你身边聪明学习者的技能故事或养成建议
         * (￣▽￣) 必须的,慢慢来
 - @何志明
-    + 我想知道国内的python高手都活跃在哪里？…最后在github安定下来...
+    + 我想知道国内的python高手都活跃在哪里?... 最后在github安定下来...
         * (￣▽￣) 正确!这是对的地方!不落地项目的学习都是扯! 参考:以 github 为核心的高效协同沟通
     https://github.com/OpenMindClub/PRD/issues/1
 - @鹄思乱想
