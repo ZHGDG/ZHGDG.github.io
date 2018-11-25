@@ -60,7 +60,7 @@ tags:  gdg event DevFest summary
         * [part 0](https://youtu.be/tj0-ezRjmPI)
         * [part 1](https://youtu.be/zuLNp4zjZMU)
     + 录音: [181124-2-django-145900.MP3](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/a/181124-2-django-145900.MP3)
-    + 幻灯: [181124-Django-book-story pro.pdf](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/181124-Django-book-story%20pro.pdf)
+    + 幻灯: [181124-Django-book-story.pdf](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/181124-Django-book-story.pdf)
     + the5fire ,真名:胡阳. 通过这俩ID可以在网上搜罗到我的踪迹. 
         * 目前任职知乎 负责视频相关的后端业务开发和团队. 上家公司在搜狐 负责手机搜狐网等相关业务开发和后端团队管理. 
         * 2011年从Java转到Python,直接接触的是Django,在随后的多年里基本上也是在折腾Django(所有的后台类的业务)和Tornado(大部分的前台界面和接口的业务)
@@ -82,9 +82,9 @@ tags:  gdg event DevFest summary
 - ~ 16:25 休息/礼物
 - ~ 16:30 OpenResty 新生态
     + 视频: https://youtu.be/ldSOnHSXqS4
-    + 幻灯: ...
+    + 幻灯: [181124-OpenResty-new-ecology](http://0.zoomquiet.top/ZHGDG/2018/181124-OpenResty-new-ecology.pdf)
     + 录音: [181124-4-openresty-161655.MP3](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/a/181124-4-openresty-161655.MP3)
-    + 温铭: OpenResty 软件基金会主席
+    + 温铭,OpenResty软件基金会主席,前360开源委员会委员;现为OpenResty Inc.合伙人,致力于打造基于OpenResty,Linux内核等基础平台的企业级产品和解决方案. 创业之前在互联网安全公司工作了10年,主要从事服务端的开发和架构,负责开发过木马云查杀,反钓鱼系统和企业安全产品. 
 
 ![9-wen-IMG_0287.JPG(JPEG 图像,4032x3024 像素) - 缩放 (29%)](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/f/9-wen-IMG_0287.JPG?imageView2/2/w/360)
 
