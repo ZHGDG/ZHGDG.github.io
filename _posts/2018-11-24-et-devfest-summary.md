@@ -30,6 +30,7 @@ tags:  gdg event DevFest summary
 宣传进程:
 
 - 报名12人 [MeetUp](https://www.meetup.com/Zhuhai-GDG/events/256539889/) 
+- 列表: 991+ [DevFest 2018 GDG ZhuHai on Saturday, November 24 \- Google Groups](https://groups.google.com/forum/#!topic/gdg-zhuhai/Da0K_0u_c6k)
 - weibo:
     + 105+ 181119 -> https://fx.weico.net/share/44940272.html
     + 799+ 181121 -> https://fx.weico.net/share/45250222.html
@@ -38,7 +39,7 @@ tags:  gdg event DevFest summary
     + 120+ 181119 -> https://mp.weixin.qq.com/s/Y8LEg5BBr7G-J1QpVClHkw
     + 70+ 181121 -> https://mp.weixin.qq.com/s/DVIk-djyAiio305Dp-ytEQ
     + 60+ 181122 -> https://mp.weixin.qq.com/s/X3_rXS-RDXspLkDzCIzwzA
-- 总浏览量: 1800+
+- 总浏览量: 2791+
     + 转化率 ~1.2%
 
 ## 议程+记要:
