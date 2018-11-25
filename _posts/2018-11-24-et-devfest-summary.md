@@ -102,7 +102,7 @@ tags:  gdg event DevFest summary
 
 - 现场无妺
 - 除 cafe 电子巻之外, 没有任何费用产生
-- 媒体记录和发布最详进, 支持完备的异步自学.
+- 媒体记录和发布最详尽, 支持完备的异步自学.
 
 
 ![11-bluetooth-IMG_0292.JPG（JPEG 图像，3024x3024 像素） - 缩放 (29%)](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/f/11-bluetooth-IMG_0292.JPG?imageView2/2/w/360)
