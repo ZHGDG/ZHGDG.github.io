@@ -90,7 +90,7 @@ tags:  gdg event DevFest summary
 
 - ~ 16:55 Flutter 简介
     + 视频: https://youtu.be/VIU7s_tSTHc
-    + 幻灯: ...
+    + 幻灯: [flutter.pdf](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/181124flutter.pdf)
     + 录音: [181124-5-flutter-165301.MP3](http://0.zoomquiet.top/ZHGDG/2018/181124DevFest/a/181124-5-flutter-165301.MP3)
     + 讲师: 老高, `不甘社` 创始人, 珠海GDG 组织者, 腾讯高级开发工程师...
 
