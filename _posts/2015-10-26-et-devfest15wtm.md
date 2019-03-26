@@ -9,7 +9,7 @@ tags:  gdg event wtm devfest
 
 每年最盛大的 DevFest ~ 开发者节日又来了!
 
-![WT_Cover_TW_OPTION-B_1500X500.jpg(JPEG 图像,1500x500 像素) - 缩放 (84%)](http://zoomq.qiniucdn.com/ZHGDG/design/wtm/SocialMedia/Twitter/Cover/WT_Cover_TW_OPTION-B_1500X500.jpg?imageView2/2/w/420)
+![WT_Cover_TW_OPTION-B_1500X500.jpg(JPEG 图像,1500x500 像素) - 缩放 (84%)](http://0.zoomquiet.top/ZHGDG/design/wtm/SocialMedia/Twitter/Cover/WT_Cover_TW_OPTION-B_1500X500.jpg?imageView2/2/w/420)
 
 展示最新 Google 技术,
 组织技能学习班,当天获得完备体验!
@@ -21,9 +21,9 @@ tags:  gdg event wtm devfest
 - 时间: 151031 周六 10:42~17:17
 - 地点: 金山软件大厦 F15 瑜珈 厅
 - 报名: https://jinshuju.net/f/WYEUBN
-- ![devfest15wtm-zh.png(PNG 图像,512x512 像素)](http://zoomq.qiniucdn.com/ZHGDG/design/DevFest/151031-wtm/devfest15wtm-zh.png?imageView2/2/w/360)
+- ![devfest15wtm-zh.png(PNG 图像,512x512 像素)](http://0.zoomquiet.top/ZHGDG/design/DevFest/151031-wtm/devfest15wtm-zh.png?imageView2/2/w/360)
 
-![zh_gdg-devfest.png(PNG 图像,1568x529 像素) - 缩放 (81%)](http://zoomq.qiniucdn.com/ZHGDG/design/DevFest/151031-wtm/zh_gdg-devfest.png?imageView2/2/w/420)
+![zh_gdg-devfest.png(PNG 图像,1568x529 像素) - 缩放 (81%)](http://0.zoomquiet.top/ZHGDG/design/DevFest/151031-wtm/zh_gdg-devfest.png?imageView2/2/w/420)
 
 ##  地址和交通
 - 地址: 珠海吉大 景山路 莲山巷8号 金山软件大厦 
