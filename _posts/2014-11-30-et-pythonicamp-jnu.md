@@ -7,7 +7,7 @@ categories: Events
 tags:  gdg PythoniCamp event summary
 ---
 
-![jnu-window.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-window.png?imageView2/2/w/512)
+![jnu-window.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-window.png?imageView2/2/w/512)
 
 `蠎营` JNU 系列活动关键数据:
 
@@ -27,9 +27,9 @@ tags:  gdg PythoniCamp event summary
 - 哪个不妥,你吼,俺删 ;-)
 
 ## JUN-蠎营.0
-![jnu-w0-all.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w0-all.png)
+![jnu-w0-all.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w0-all.png)
 
-- 录音: [141108-jnu-start/](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141108-jnu-start)
+- 录音: [141108-jnu-start/](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/141108-jnu-start)
 - 议程:
 ```
 14:30 Python 自学途径建议
@@ -49,7 +49,7 @@ tags:  gdg PythoniCamp event summary
 17:00 结束
 ```
 
-[jnu-w0-itmes.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w0-itmes.png)
+[jnu-w0-itmes.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w0-itmes.png)
 
 
 - 前导:
@@ -65,9 +65,9 @@ tags:  gdg PythoniCamp event summary
 
 
 ## JUN-蠎营.1
-![jnu-w2-sky.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w2-sky.png)
+![jnu-w2-sky.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w2-sky.png)
 
-- 录音: [141116-jnu-w1/](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141116-jnu-w1)
+- 录音: [141116-jnu-w1/](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/141116-jnu-w1)
 
 ### 记要:
 
@@ -150,7 +150,7 @@ tags:  gdg PythoniCamp event summary
 * 去了解markdown git QPython bottle这四种工具(主要掌握前两种)
 * 推荐学习Python的书:<<像计算机科学家一样思考Python>>/<<笨办法学Python>>
 
-![jnu-w1-zq.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w1-zq.png)
+![jnu-w1-zq.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w1-zq.png)
 
 ~ 所以,呢! 很多时候和同学们的交流,好象和牛妞一样,有点些无言以对...
 
@@ -176,9 +176,9 @@ PPS:　　最后一组的mread已换成组我吧
 
 ## JUN-蠎营.2
 
-![jnu-w2-all.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w2-all.png)
+![jnu-w2-all.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w2-all.png)
 
-- 录音: [141122-jnu-w2/](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141122-jnu-w2)
+- 录音: [141122-jnu-w2/](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/141122-jnu-w2)
 
 ### 概述
 - 时间:11月22日下午15:00-17:30
@@ -223,9 +223,9 @@ PPS:　　最后一组的mread已换成组我吧
 
 ## JUN-蠎营.3
 
-![jnu-w3-all.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w3-all.png)
+![jnu-w3-all.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w3-all.png)
 
-- 录音: [141130-jnu-w3/](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141130-jnu-w3)
+- 录音: [141130-jnu-w3/](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/141130-jnu-w3)
 
 ### 概述 
 
@@ -235,7 +235,7 @@ PPS:　　最后一组的mread已换成组我吧
     + 蟒营学员:10+
     + 导师:Zoom.Quiet(以下简称"大妈")
 
-![jnu-w3-talk.png](http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/jnu-w3-talk.png)
+![jnu-w3-talk.png](http://0.zoomquiet.top/CPyUG/PythoniCamp/141101-jnu/jnu-w3-talk.png)
 
 ### 流程
 `1.演示(15:00-15:40)`

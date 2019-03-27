@@ -11,45 +11,45 @@ tags:  gdg event summary gdl hoa
 [[8.11]珠海GDG第四次GDL沙龙!](http://www.chinagdg.com/thread-2783-1-1.html)
 的预告,本次依旧没有改进,仅仅提前3天才开始宣传,不过,活动还是非常给力的...
 
-![1-IMG_1023.JPG](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/1-IMG_1023.JPG)
+![1-IMG_1023.JPG](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/1-IMG_1023.JPG)
 
 
 ## 流水
-![1-2013-7-27 13-57-36.JPG](http://zoomq.qiniudn.com/ZHGDG/130722-gdl/1-2013-7-27%2013-57-36.JPG)
+![1-2013-7-27 13-57-36.JPG](http://0.zoomquiet.top/ZHGDG/130722-gdl/1-2013-7-27%2013-57-36.JPG)
 
 <!--more-->
 
 - 12:37 和北理的老高,已经抵达会场,屋里屋外的折腾了起来, 详细折腾了什么,已经汇报了N次了,就不重复了...
 - 13:58 提前120秒开始
-    - 照例的暖场: [录音](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-0-intro.MP3)每个人的三句半自述
+    - 照例的暖场: [录音](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-0-intro.MP3)每个人的三句半自述
     - 以及必须的应场声明:
         + 录音/录像 的版权免贵
         + 救火通道的指引声明
-    - 发现已经有程序媛连续参加活动了! ![othermm](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/1-IMG_0920.JPG)
-    - 而且有从广州过来感受GDG 活动的MM ![Kayan](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/1-IMG_0888.JPG),以至客串的摄影,完全肆无忌惮的围着不停的闪... Orz...
+    - 发现已经有程序媛连续参加活动了! ![othermm](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/1-IMG_0920.JPG)
+    - 而且有从广州过来感受GDG 活动的MM ![Kayan](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/1-IMG_0888.JPG),以至客串的摄影,完全肆无忌惮的围着不停的闪... Orz...
     - 大妈,快速完成每次都必须吼的:
-        - 幻灯: [进击的G+](http://zoomquiet.org/res/s5/130727-gdgzhgdl/) + [录音](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-1-gplus.MP3)
+        - 幻灯: [进击的G+](http://zoomquiet.org/res/s5/130727-gdgzhgdl/) + [录音](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-1-gplus.MP3)
         - 主要强烈暗示了 **[9.14]DevFest** 以及 **[11.17]PyCon2013CHina** 的大会将非常好玩 ;-)
         - 并严正倡议了如何合法爱国...
 - 14:27 正点的程序媛首次亮相珠海GDG
     - 超级 handsome 的勇叔! 嗯嗯嗯,目测比大妈要夺目的多,决定不释放照片!
     - [幻灯:](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-zd-pm-thinking)
- + [录音](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-2-zd-pm.MP3)
+ + [录音](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-2-zd-pm.MP3)
     - 充满深情的回忆了在WPS 的战斗年代,对比当前正点的互联网文化团队的项目管理差异
     - 给出了各个环节上的忠告,不过,涉及方面太广,只能日后拆成系列讲座来细述了,,,
-![1-2013-7-27 14-23-55.JPG](http://zoomq.qiniudn.com/ZHGDG/130722-gdl/1-2013-7-27%2014-23-55.JPG)
+![1-2013-7-27 14-23-55.JPG](http://0.zoomquiet.top/ZHGDG/130722-gdl/1-2013-7-27%2014-23-55.JPG)
 - 15:15 珠海本地的国际名星级开源硬件企业:[方糖科技](http://cubieboard.org)已经成为 GDG 的常客
-    - ![benn](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/1-IMG_0879.JPG)
+    - ![benn](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/1-IMG_0879.JPG)
     - 本次恢复了创始人来吼,不过,上次的讲师,新人 `凌祥华` 同学也没有轻闲,本次作为客座摄影师,努力完成了一堆对焦模糊的记录... Orz...
     - [幻灯](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-cubieboard-linux)
-    - [录音:](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-3-cb-linux.MP3)
+    - [录音:](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-3-cb-linux.MP3)
     - 简述了一下 目前Linux 发行版本的现状,以及 CB 可以刷的OS
     - 以及重要的提及了 9.14 DevFest 上方糖的市集活动的规划...
     - 印象深刻的是: `Mint` 这一从未听说的发行版,居然是当前安装增量世界第一的!
 - 16:21 间歇后,继续下半程分享:
-    - ![marc](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/1-IMG_0993.JPG)
+    - ![marc](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/1-IMG_0993.JPG)
     - 珠海GDG 明星讲师,刘老湿上场了,,,暖场自述时,很多就是冲刘老师来的!
-    - [录音:](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-4-slatstack.MP3)
+    - [录音:](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-4-slatstack.MP3)
     - [幻灯:](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-march-liu-slatstack)
     - 继前几次分析的思路,开始将创业团队的开发实践,具体化到了方面工具
     - 这次,主要分享有关小团队如何实践 DevOps 的管理/技术控制;
@@ -58,10 +58,10 @@ tags:  gdg event summary gdl hoa
     - 刘老湿 通过自身长期思考,使用虚拟机+持续部署 的管理手段,强迫所有成员,完成 DevOps 的思维注入,非常巧妙,也非常有成效
     - 而在工具链的选择方面,保守/激进并重, 基础组件,以烂熟不折腾为准,自动化工具,则在充分调查后,选择了有潜力,有能力,关键是最简洁的 Slatstack ...
     - 严正建议大家对比幻灯,反复聆听录音,其中有很多内在思考,值得回味!
-- 17:11 ![小郎](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/1-IMG_0877.JPG)
+- 17:11 ![小郎](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/1-IMG_0877.JPG)
     - 非著名业余设计师 小郎哥 再次分享私人学习成果
     - [幻灯:](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-wps-android-design)
-    - [录音:](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-5-android.MP3)
+    - [录音:](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-5-android.MP3)
     - 以真实的产品形态对比,分享对 Android 应用交互守则的理解...
     - 直觉,深刻,有理,展现出移动应用理解的大局观...
 - 17:42 终于因为有两名小伙伴同时跳票后,我们珠海GDG 的活动能有一次提前结束的!
@@ -87,16 +87,16 @@ tags:  gdg event summary gdl hoa
 
 ### 录音+幻灯:
 
-1. [130811_zhgdgdl4-0-intro.MP3](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-0-intro.MP3)
-1. [130811_zhgdgdl4-1-gplus.MP3](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-1-gplus.MP3)
+1. [130811_zhgdgdl4-0-intro.MP3](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-0-intro.MP3)
+1. [130811_zhgdgdl4-1-gplus.MP3](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-1-gplus.MP3)
     - 幻灯: [130727-gdgzhgdl/](http://zoomquiet.org/res/s5/130727-gdgzhgdl/)
-1. [130811_zhgdgdl4-2-zd-pm.MP3](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-2-zd-pm.MP3)
+1. [130811_zhgdgdl4-2-zd-pm.MP3](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-2-zd-pm.MP3)
     - 幻灯: [ZHGDL.4-zd-pm-thinking // Speaker Deck](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-zd-pm-thinking)
-1. [130811_zhgdgdl4-3-cb-linux.MP3](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-3-cb-linux.MP3)
+1. [130811_zhgdgdl4-3-cb-linux.MP3](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-3-cb-linux.MP3)
     - 幻灯: [ZHGDL.4-cubieboard-linux // Speaker Deck](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-cubieboard-linux)
-1. [130811_zhgdgdl4-4-slatstack.MP3](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-4-slatstack.MP3)
+1. [130811_zhgdgdl4-4-slatstack.MP3](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-4-slatstack.MP3)
     - [ZHGDL.4-march-liu-slatstack // Speaker Deck](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-march-liu-slatstack)
-1. [130811_zhgdgdl4-5-android.MP3](http://zoomq.qiniudn.com/ZHGDG/130811-gdl-4/130811_zhgdgdl4-5-android.MP3)
+1. [130811_zhgdgdl4-5-android.MP3](http://0.zoomquiet.top/ZHGDG/130811-gdl-4/130811_zhgdgdl4-5-android.MP3)
     - [ZHGDL.4-wps-android-design // Speaker Deck](https://speakerdeck.com/zoomquiet/zhgdl-dot-4-wps-android-design)
 
 

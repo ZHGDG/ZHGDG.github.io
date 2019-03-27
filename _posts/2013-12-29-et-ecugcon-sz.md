@@ -11,7 +11,7 @@ tags:  gdg 无责任报道 listening learnning
 
 ![53809965jw1ec0fep4crbj217s06w0v2.jpg(JPEG 图像,1024x161 像素)](http://ww3.sinaimg.cn/mw1024/53809965jw1ec0fep4crbj217s06w0v2.jpg)
 
-[ECUG Con](http://zoomq.qiniudn.com/ZQScrapBook/ZqFLOSS/data/20131229212254/index.html) 大会宗旨是交流云计算产业的最前沿技术探索. 一年一度,围绕您所经历的技术演变和项目实践进行互动和分享. 议题包括但不局限于:
+[ECUG Con](http://0.zoomquiet.top/ZQScrapBook/ZqFLOSS/data/20131229212254/index.html) 大会宗旨是交流云计算产业的最前沿技术探索. 一年一度,围绕您所经历的技术演变和项目实践进行互动和分享. 议题包括但不局限于:
 
 - 结合某种语言的分布式领域实践,比如 Golang,Node.js,Erlang,Nginx Lua,Java,C# 等等. 
 - 云计算领域开源项目的实战经验分享,比如 Hadoop,MongoDB,Redis,RabbitMQ 等等. 
@@ -59,11 +59,11 @@ tags:  gdg 无责任报道 listening learnning
 
 ### 录音
 
-- [2:梁智](http://zoomq.qiniudn.com/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-2_liangzhi.MP3)
-- [3:许式伟](http://zoomq.qiniudn.com/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-3-xushiwei.MP3)
-- [4:谢孟军](http://zoomq.qiniudn.com/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-4-STATxie.MP3)
-- [5:马全一](http://zoomq.qiniudn.com/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-5-docker.cn.MP3)
-- [6:aadebuger](http://zoomq.qiniudn.com/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-6-aadebuger.MP3)
+- [2:梁智](http://0.zoomquiet.top/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-2_liangzhi.MP3)
+- [3:许式伟](http://0.zoomquiet.top/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-3-xushiwei.MP3)
+- [4:谢孟军](http://0.zoomquiet.top/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-4-STATxie.MP3)
+- [5:马全一](http://0.zoomquiet.top/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-5-docker.cn.MP3)
+- [6:aadebuger](http://0.zoomquiet.top/Erloung2ECUG/ECUG2013Con-131228-29_sz/131229_ECUGCon-6-aadebuger.MP3)
 
 
 ### 直播录像

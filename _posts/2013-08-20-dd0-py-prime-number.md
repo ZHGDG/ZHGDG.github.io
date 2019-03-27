@@ -15,7 +15,7 @@ tags:  gdg D码点评 dd wechat pythonic coding
 
 ## 单行程序 扫描素数
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/130820_pyprime.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/130820_pyprime.png)
 
 代码出处:
 

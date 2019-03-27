@@ -52,12 +52,12 @@ tags:  gdg sysu event summary
     - 但是,同学们好象不很适应俺聊天式的回顾
     - 于是按时完毕随想,进入主题分享
     - 其实,米国的移动4G体验,旧金山随处得见的城市艺术作品,美刀硬币没数字,长的超象MAX的GDG组织者,,,以为俺会随便说?
-    - 录音: [172M_130524_review.MP3](http://zoomq.qiniudn.com/ZHGDG/130525-ioreview/172M_130524_review.MP3)
-    - 问答:[173M_130524_qa.MP3](http://zoomq.qiniudn.com/ZHGDG/130525-ioreview/173M_130524_qa.MP3)
+    - 录音: [172M_130524_review.MP3](http://0.zoomquiet.top/ZHGDG/130525-ioreview/172M_130524_review.MP3)
+    - 问答:[173M_130524_qa.MP3](http://0.zoomquiet.top/ZHGDG/130525-ioreview/173M_130524_qa.MP3)
 - 15:50 开始吼:"科学的玩"
     - [在线幻灯](http://zoomquiet.org/res/s5/130427-zhgdg2zhbit/)
-        - 录音:[174M_130524_playingdg.MP3](http://zoomq.qiniudn.com/ZHGDG/130525-ioreview/174M_130524_playingdg.MP3)
-        - 问答:[175M_130524_qa.MP3](http://zoomq.qiniudn.com/ZHGDG/130525-ioreview/175M_130524_qa.MP3)
+        - 录音:[174M_130524_playingdg.MP3](http://0.zoomquiet.top/ZHGDG/130525-ioreview/174M_130524_playingdg.MP3)
+        - 问答:[175M_130524_qa.MP3](http://0.zoomquiet.top/ZHGDG/130525-ioreview/175M_130524_qa.MP3)
     - 这本来是上次北理工准备的讲演,终于可以得见同学
     - 核心命题:
         - 问的对,人生才能对

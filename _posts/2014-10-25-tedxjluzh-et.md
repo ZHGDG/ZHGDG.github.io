@@ -6,7 +6,7 @@ categories: EvenTs
 tags:  gdg Zhuhai TEDx
 ---
 
-![](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/tedxjluzh-1.pic.jpg)
+![](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/tedxjluzh-1.pic.jpg)
 
 TEDx 是 TED 赋予全人类的礼物, 虽然只是一种分享活动的形式,
 但是,其中包含的思想, 值得我们每一位公民认真体验.
@@ -17,7 +17,7 @@ TEDx 是 TED 赋予全人类的礼物, 虽然只是一种分享活动的形式,
 - `TEDx` ~思想是值得广泛传播的(Ideas worth spreading),基于这种精神,TED衍生出了TEDx项目. TEDx这种本地化的,自组织的活动可以把人们聚集到一起来分享类似于TED的经历和体验. 在TEDx活动中,演讲的视频和现场演讲者相结合激发出更深层次的讨论和小组内更紧密的联系. 这种当地的,自发性的活动被称为 TEDx,"x"代表了独立组织的TED活动. TED会议为TEDx项目提供了总的指导方针,但单个的TEDx活动是由(当地人)自行组织的. 
 
 ## 一时一刻
-![](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/tedxjluzh-5.pic.jpg)
+![](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/tedxjluzh-5.pic.jpg)
 
 141025 在 吉林大学珠海校院举行的 TEDx 分享会,
 大妈受邀, 前往分享了 `未来的阅读` 这一主题.
@@ -26,7 +26,7 @@ TEDx 是 TED 赋予全人类的礼物, 虽然只是一种分享活动的形式,
 
 先说好的:
 
-![](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/tedxjluzh-2.pic_hd.jpg?imageView2/2/w/600)
+![](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/tedxjluzh-2.pic_hd.jpg?imageView2/2/w/600)
 
 - 团队齐整,第二次举办,就已经有了相对固定的20+人团队愿意用近半年的时间来策划TEDx ;-)
 - 通过赞助商 使用了影院 音响等设施比较好控制
@@ -50,16 +50,16 @@ TEDx 是 TED 赋予全人类的礼物, 虽然只是一种分享活动的形式,
 
 ### 录音:
 
-* 何老师: [141025-TEDxJLUZH-1-hewz.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-1-hewz.MP3) 传播需要技巧
-* 霍老师: [141025-TEDxJLUZH-2-huoze.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-2-huoze.MP3) 汉字值得研究
-* 船长: [141025-TEDxJLUZH-3-runner.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-3-runner.MP3) 跑起来什么都会好
-* nk7: [141025-TEDxJLUZH-4-nk7.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-4-nk7.MP3) 嘦认真手机也拍得出大片!
+* 何老师: [141025-TEDxJLUZH-1-hewz.MP3](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-1-hewz.MP3) 传播需要技巧
+* 霍老师: [141025-TEDxJLUZH-2-huoze.MP3](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-2-huoze.MP3) 汉字值得研究
+* 船长: [141025-TEDxJLUZH-3-runner.MP3](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-3-runner.MP3) 跑起来什么都会好
+* nk7: [141025-TEDxJLUZH-4-nk7.MP3](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-4-nk7.MP3) 嘦认真手机也拍得出大片!
 
 ## 未来
 被指定的标题, 可能考虑到俺是头程序猿吧...
 但是,想来想去能和普通人产生共鸣的未来的 `一时一刻` 只有阅读了:
 
-- 录音: [141025-TEDxJLUZH-5-zoomquiet.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-5-zoomquiet.MP3)
+- 录音: [141025-TEDxJLUZH-5-zoomquiet.MP3](http://0.zoomquiet.top/ZHGDG/2014/141025-TEDxJLUZH/141025-TEDxJLUZH-5-zoomquiet.MP3)
 - 幻灯: [TEDxJLUZH-moment-future](https://speakerdeck.com/zoomquiet/tedxjluzh-moment-future)
 
 以下不是录音笔录,只是自个儿书面上的核心想法 re-view.

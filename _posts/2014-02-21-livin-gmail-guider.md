@@ -27,7 +27,7 @@ tags:  gdg guider gmail
 参考:
 
 - 幻灯: [2.22-SOD-Kaoupulity-email](https://speakerdeck.com/zoomquiet/2-dot-22-sod-kaoupulity-email)
-- 录音: [ZHGDG/2014/140219-skill4mail {gen. by gen4idx.py v13.4.18}](http://zoomq.qiniudn.com/ZHGDG/2014/140219-skill4mail/index.html)
+- 录音: [ZHGDG/2014/140219-skill4mail {gen. by gen4idx.py v13.4.18}](http://0.zoomquiet.top/ZHGDG/2014/140219-skill4mail/index.html)
 
 ## 俺的gmail
 
@@ -62,7 +62,7 @@ tags:  gdg guider gmail
 - Outgoing message encoding: `Use Unicode (UTF-8) encoding for outgoing messages`
     - 不用 UTF-8 就是耍流氓!
 - Stars: 手工调整为彩虹色 
-    - ![starts](http://zoomq.qiniudn.com/ZHGDG/wechat/gmail-guider/starts.png)
+    - ![starts](http://0.zoomquiet.top/ZHGDG/wechat/gmail-guider/starts.png)
     - 习惯的心理含义:
         - 红星: 紧急且重要
         - 橙>>: 需要跟进的事儿
@@ -135,7 +135,7 @@ tags:  gdg guider gmail
 
 - 使用 `j`/`k` 快速定位到相关邮件
 - `x->g->k` 选择并丢入任务板
-    - ![tasks](http://zoomq.qiniudn.com/ZHGDG/wechat/gmail-guider/tasks.png)
+    - ![tasks](http://0.zoomquiet.top/ZHGDG/wechat/gmail-guider/tasks.png)
 - 未来如果还了书
     - 进入任务板
     - 点击对应借条的关联邮件

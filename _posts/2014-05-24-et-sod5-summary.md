@@ -26,7 +26,7 @@ tags:  gdg soa event summary
 
 <!--more-->
 
-![140524_152036_bestshot-MOTION.gif(GIF 图像,972x730 像素)](http://zoomq.qiniudn.com/ZHGDG/2014/140524_152036_bestshot-MOTION.gif)
+![140524_152036_bestshot-MOTION.gif(GIF 图像,972x730 像素)](http://0.zoomquiet.top/ZHGDG/2014/140524_152036_bestshot-MOTION.gif)
 
 这不是敬礼,而是珠海的艳阳天儿,
 近期连绵阴雨后难得的,
@@ -44,7 +44,7 @@ tags:  gdg soa event summary
 现场人少就没有进行录音了,内容雷同 NB1
 
 - 幻灯: [140315-nb0/](http://s5.zoomquiet.io/140315-nb0)
-- 录音: [140315-nb0 {gen. by gen4idx.py v13.4.18}](http://zoomq.qiniudn.com/ZHGDG/2014/140315-nb0/index.html)
+- 录音: [140315-nb0 {gen. by gen4idx.py v13.4.18}](http://0.zoomquiet.top/ZHGDG/2014/140315-nb0/index.html)
 
 
 ## 是也乎

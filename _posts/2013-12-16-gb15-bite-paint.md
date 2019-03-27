@@ -14,37 +14,37 @@ tags:  gdg G术图书 gb wechat book
 
 来自: 咬人画的 新浪博客
 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3HL28d5d&690.jpg)
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3HRVHh87&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3I01ACc2&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3HL28d5d&690.jpg)
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3HRVHh87&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3I01ACc2&690.jpg) 
 
 <!--more-->
 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3I6Xoi7e&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3IEsF604&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3RPh8i1e&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3WpYowd8&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3I6Xoi7e&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3IEsF604&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3RPh8i1e&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3WpYowd8&690.jpg) 
 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3JBXxFdb&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3JGSkm66&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3JLqHQ7e&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3JPIda38&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3JTTt21c&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3JYE7v81&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3K3fT87e&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3K7pBN53&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3JBXxFdb&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3JGSkm66&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3JLqHQ7e&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3JPIda38&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3JTTt21c&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3JYE7v81&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3K3fT87e&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3K7pBN53&690.jpg) 
 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3Z7x1882&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3Zenm535&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3ZlkxOc8&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3Zy8cifa&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3ZEIDGfc&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3ZQpcSd2&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE3ZVhhzad&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE400aJT45&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE404QX701&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE40aqPr8d&690.jpg) 
-![](http://zoomq.qiniudn.com/ZHGDG/stuff/001oKLZxgy6DE40ejmo48&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3Z7x1882&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3Zenm535&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3ZlkxOc8&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3Zy8cifa&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3ZEIDGfc&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3ZQpcSd2&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE3ZVhhzad&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE400aJT45&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE404QX701&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE40aqPr8d&690.jpg) 
+![](http://0.zoomquiet.top/ZHGDG/stuff/001oKLZxgy6DE40ejmo48&690.jpg) 
 
 
 

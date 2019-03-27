@@ -14,7 +14,7 @@ tags:  gdg G术图书 gb wechat book
 
 
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/130826-jbl-national-defence.jpg)
+![](http://0.zoomquiet.top/ZHGDG/wechat/130826-jbl-national-defence.jpg)
 
 # [国防论 (豆瓣)](http://book.douban.com/subject/5990882/)
 

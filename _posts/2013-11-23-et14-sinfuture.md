@@ -9,7 +9,7 @@ tags:  gdg devfest event summary
 
 # GDG珠海 HOA.5 活动小结
 
-![131123_hoa5_all.png](http://zoomq.qiniudn.com/ZHGDG/wechat/131123_hoa5_all.png)
+![131123_hoa5_all.png](http://0.zoomquiet.top/ZHGDG/wechat/131123_hoa5_all.png)
 
 
 活动关键数据:
@@ -59,13 +59,13 @@ HOA(Hangout on Air)~全新的在线视频沟通方式
 所以,临时抓了 澳门来的小伙伴 的差,上下张罗,
 所以,真正开场就晩了 20分钟...
 
-- 录音: [131123_0_intro.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_0_intro.MP3)
+- 录音: [131123_0_intro.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_0_intro.MP3)
 - 发现现场来了5位程序媛,还有特地从 唐家大学城赶来的...
 
 ### ~ 14:05 GDG例述
 
 - 幻灯: [进击的G+](http://zoomquiet.org/res/s5/130727-gdgzhgdl/)
-- 录音: [131123_1_zhgdg.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_1_zhgdg.MP3)
+- 录音: [131123_1_zhgdg.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_1_zhgdg.MP3)
 
 因为每次来参与活动的,至少一半是首次;
 所以,根据其它城市GDG 的经验,每次一定要再次讲一下基础常识:
@@ -80,7 +80,7 @@ HOA(Hangout on Air)~全新的在线视频沟通方式
 因为是相同的内容,给 UIC 讲过后,来社区再次分享,
 刘老师 讲瘏更加凝练了!
 
-- 录音: [131123_2_march_liu.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_2_march_liu.MP3)
+- 录音: [131123_2_march_liu.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_2_march_liu.MP3)
 - 幻灯: [ZHGDG_11.23_HOA.5_奇点与未来](https://speakerdeck.com/zoomquiet/zhgdg-11-dot-23-hoa-dot-5-qi-dian-yu-wei-lai)
 - 录像: 
     - 土豆: [奇点与未来](http://www.tudou.com/programs/view/iRHhKQT8zgg/)
@@ -137,13 +137,13 @@ Presentation Transcript
 码农可以的生活形态!
 
 - 幻灯: [ZHGDG_11.23_HOA.5_作个不务正业的技术宅](https://speakerdeck.com/zoomquiet/zhgdg-11-dot-23-hoa-dot-5-zuo-ge-bu-wu-zheng-ye-de-ma-nong)
-- 录音: [131123_3_nonly_coding.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_3_nonly_coding.MP3)
+- 录音: [131123_3_nonly_coding.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_3_nonly_coding.MP3)
 
 
-![131123_hoa5_solo.png](http://zoomq.qiniudn.com/ZHGDG/wechat/131123_hoa5_solo.png)
+![131123_hoa5_solo.png](http://0.zoomquiet.top/ZHGDG/wechat/131123_hoa5_solo.png)
 
 - LivSolo: 夜空中最亮的星
-- 录音: [131123_4_solo.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_4_solo.MP3)
+- 录音: [131123_4_solo.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_4_solo.MP3)
 
 只能感叹,幸好已经婚了!
 
@@ -157,14 +157,14 @@ Presentation Transcript
 
 ### ~ 16:30 一斌(广州) 如何从法学生变为科技记者
 
-![131123_hoa5_yibin.png](http://zoomq.qiniudn.com/ZHGDG/wechat/131123_hoa5_yibin.png)
+![131123_hoa5_yibin.png](http://0.zoomquiet.top/ZHGDG/wechat/131123_hoa5_yibin.png)
 
 一斌,从一个 GTD 业余实践者为大家知道,
 然后一跃变成专业的科技媒体从业人员,可以名正言顺的四处掺合技术活动了,
 这次受邀请回顾了一下自个儿的进化过程很有趣...
 
 - 幻灯: [ZHGDG_11.23_HOA.5_从法学学生到科技记者](https://speakerdeck.com/zoomquiet/zhgdg-11-dot-23-hoa-dot-5-cong-fa-xue-xue-sheng-dao-ke-ji-ji-zhe)
-- 录音: [131123_5_ifanr.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_5_ifanr.MP3)
+- 录音: [131123_5_ifanr.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_5_ifanr.MP3)
 
 
 ### ~ 17:35 大妈 再再再再谈Leo
@@ -179,9 +179,9 @@ Presentation Transcript
 
 - 幻灯: [再再再谈Leo](http://zoomquiet.org/res/s5/131101-leo-china/)
 - 录音: 全然时间排序
-    - [131123_6_leo.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_6_leo.MP3)
-    - [100716_115M_leo.MP3](http://zoomq.qiniudn.com/CPyUG/100716-Leo-LiterateProgramming/100716_115M_leo.MP3)
-    - [060730_bpug_no9_1.ogg](http://zoomq.qiniudn.com/CPyUG/060731-bpyug-leo/cpug_2006_07_30_01.ogg)
+    - [131123_6_leo.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_6_leo.MP3)
+    - [100716_115M_leo.MP3](http://0.zoomquiet.top/CPyUG/100716-Leo-LiterateProgramming/100716_115M_leo.MP3)
+    - [060730_bpug_no9_1.ogg](http://0.zoomquiet.top/CPyUG/060731-bpyug-leo/cpug_2006_07_30_01.ogg)
 
 
 为毛对一款目测什么都不能作的伪编程环境如此痴迷?
@@ -209,7 +209,7 @@ Presentation Transcript
 我们坚信这是一个很好的想法,也是一个值得努力的方向. 如果你有大胆的构思,丰富的灵感,前沿的设计风格,卓越的技能或者想为更多新潮,好玩的创意买单,欢迎加入GLASS X,成为智慧,热情,技术,人才,资金库的一份子,共同见证梦想的实现!
 
 
-- 录音: [131123_7_glass_x.MP3](http://zoomq.qiniudn.com/ZHGDG/131123-hoa5/131123_7_glass_x.MP3)
+- 录音: [131123_7_glass_x.MP3](http://0.zoomquiet.top/ZHGDG/131123-hoa5/131123_7_glass_x.MP3)
 - 幻灯:
     - [ZHGDG_11.23_HOA.5_Google_GLASS](https://speakerdeck.com/zoomquiet/zhgdg-11-dot-23-hoa-dot-5-google-glass)
     - [ZHGDG_11.23_HOA.5_dev_on_GLASS](https://speakerdeck.com/zoomquiet/zhgdg-11-dot-23-hoa-dot-5-dev-on-glass)

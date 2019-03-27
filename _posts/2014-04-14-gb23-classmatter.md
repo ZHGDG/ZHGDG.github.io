@@ -44,7 +44,7 @@ tags:  gdg G术图书 gb wechat book
 `注意`,最后是在 UIC 珠海持教的哪!
 
 推荐相关录音:
-[140322_RN23-0-book-recommend.MP3](http://zoomq.qiniudn.com/ReadNeighbor/140322-readneighbor23/140322_RN23-0-book-recommend.MP3)
+[140322_RN23-0-book-recommend.MP3](http://0.zoomquiet.top/ReadNeighbor/140322-readneighbor23/140322_RN23-0-book-recommend.MP3)
 
 [阅读邻居23期-误解与错位-荐书2 | Reader as Neighbor ;-)](http://yuedulinju.com/2014-03/rn23-books2/)
 
@@ -85,7 +85,7 @@ tags:  gdg G术图书 gb wechat book
 
 - 纯文字消息,没有图文统计:
 
-![140414-wechat-analyze.png](http://zoomq.qiniudn.com/ZHGDG/wechat/140414-wechat-analyze.png)
+![140414-wechat-analyze.png](http://0.zoomquiet.top/ZHGDG/wechat/140414-wechat-analyze.png)
 
 这样不利于社区追踪文章的品质
 

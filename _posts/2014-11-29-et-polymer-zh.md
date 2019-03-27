@@ -7,7 +7,7 @@ categories: Events
 tags:  gdg DevFest Polymer event summary
 ---
 
-![polytechnic.jpg](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/polytechnic.jpg?imageView2/2/w/512)
+![polytechnic.jpg](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/polytechnic.jpg?imageView2/2/w/512)
 
 活动关键数据:
 
@@ -28,10 +28,10 @@ tags:  gdg DevFest Polymer event summary
 
 
 ## 流水
-![141129-polymer-all.png](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-polymer-all.png)
+![141129-polymer-all.png](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-polymer-all.png)
 
 ## 自述
-- 录音: [141129-0-intro-self.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-0-intro-self.MP3)
+- 录音: [141129-0-intro-self.MP3](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-0-intro-self.MP3)
 - 是的,大妈 主持活动的现场福利:
     + 客观语音证据,肉身来也
     + 相互认识,破个冰
@@ -42,8 +42,8 @@ tags:  gdg DevFest Polymer event summary
 
 ## 开场
 
-- 录音: ![141129-1-starting.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-1-starting.MP3)
-    + [141129-2-zhgdg.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-2-zhgdg.MP3)
+- 录音: ![141129-1-starting.MP3](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-1-starting.MP3)
+    + [141129-2-zhgdg.MP3](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-2-zhgdg.MP3)
 - 是的,老调重弹,反复的,必须的:
     + 什么是 GDG
     + 什么是 珠海GDG
@@ -52,7 +52,7 @@ tags:  gdg DevFest Polymer event summary
     + `合法爱国`
     + ...etc. 都快变成稳定的折子戏了
 
-![141129-polymer-0-start-v.png](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-polymer-0-start-v.png)
+![141129-polymer-0-start-v.png](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-polymer-0-start-v.png)
 
 当然,根据官方要求播放了 BOSS 的总览介绍
 
@@ -61,10 +61,10 @@ tags:  gdg DevFest Polymer event summary
 - 录像: [141024-jackie_Polymer_DevFest](http://v.youku.com/v_show/id_XODM5NDEyNTM2.html)
 - 感谢 Dart 的 DAE, 中国,活的,,,
 
-![141129-polymer-1-jackie.png](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-polymer-1-jackie.png)
+![141129-polymer-1-jackie.png](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-polymer-1-jackie.png)
 
 ## 茶歇
-![141129-polymer-food.png](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-polymer-food.png)
+![141129-polymer-food.png](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-polymer-food.png)
 
 为20人准备的哪,,,
 
@@ -73,8 +73,8 @@ tags:  gdg DevFest Polymer event summary
 
 找到去年 赢得大奖的广州同学, 专门录制了演讲,现场播放:
 
-- 幻灯: [ZHGDG_GSoC.pdf](http://zoomq.qiniudn.com/ZHGDG/res/ZHGDG_GSoC.pdf)
-- 录音: [ZHGDG_GSoC.m4a](http://zoomq.qiniudn.com/ZHGDG/res/ZHGDG_GSoC.m4a)
+- 幻灯: [ZHGDG_GSoC.pdf](http://0.zoomquiet.top/ZHGDG/res/ZHGDG_GSoC.pdf)
+- 录音: [ZHGDG_GSoC.m4a](http://0.zoomquiet.top/ZHGDG/res/ZHGDG_GSoC.m4a)
 
 严正,反复,强烈 推荐的有关技巧文章:
 
@@ -82,7 +82,7 @@ tags:  gdg DevFest Polymer event summary
 - 是的,只有上, 下篇承诺就在圣诞节前释放 `!-)`
 
 ## Play Pay
-![141129-polymer-playpay.png](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-polymer-playpay.png)
+![141129-polymer-playpay.png](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-polymer-playpay.png)
 
 播放了官方 墙外教程:
 
@@ -94,7 +94,7 @@ tags:  gdg DevFest Polymer event summary
 
 ## 实例练习
 
-![Index of /ZHGDG/2014/141130-devfest {gen. by gen4idx.py v13.4.18}](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/index.html)
+![Index of /ZHGDG/2014/141130-devfest {gen. by gen4idx.py v13.4.18}](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/index.html)
 
 - 教程: [入门教程 - Polymer](http://docs.polymerchina.org/docs/start/tutorial/intro.html)
 - 代码: [下载入门项目](https://github.com/Polymer/polymer-tutorial/archive/master.zip)
@@ -119,7 +119,7 @@ tags:  gdg DevFest Polymer event summary
 ## 是也乎
 得提醒哪,最后练习时的录音:
 
-- [141129-3-polymer-ex.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141130-devfest/141129-3-polymer-ex.MP3)
+- [141129-3-polymer-ex.MP3](http://0.zoomquiet.top/ZHGDG/2014/141130-devfest/141129-3-polymer-ex.MP3)
 - 包含了各种吐糟哪,,,
 - Polymer 真心是可以同 AngularJS 合用的
 - 以及, 前端平台大战刚刚开始, 站队要站, 但是,不保证到最后哪...

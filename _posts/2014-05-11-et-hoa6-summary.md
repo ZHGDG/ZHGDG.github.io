@@ -29,7 +29,7 @@ tags:  gdg cbi event hoa summary
 所以,有了这次 `算法故事` 的主题分享;
 果然,来者了了.
 
-![](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511-hoa6-7.png)
+![](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511-hoa6-7.png)
 
 <!--more-->
 
@@ -47,7 +47,7 @@ tags:  gdg cbi event hoa summary
     - 其实没有签到,嘦对门口的大横幅自豪的说:"来参加 GDG活动的!" 就能进入了
 
 - 14:55 - 15:00   开场
-    - 录音:[140511_zhoa.6-0-intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-0-intro.MP3)
+    - 录音:[140511_zhoa.6-0-intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-0-intro.MP3)
     - 快速介绍什么是GDG ,什么是珠海GDG ,为什么有这次活动
     - 另外,也收集了难得的,冒雨来参加人员的自述
     - 有MM !
@@ -56,7 +56,7 @@ tags:  gdg cbi event hoa summary
 
 ![](http://ww4.sinaimg.cn/bmiddle/53809965jw1egacozep4yj20y019cajw.jpg)
 
-- 录音: [140511_zhoa.6-1-liao.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-1-liao.MP3)
+- 录音: [140511_zhoa.6-1-liao.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-1-liao.MP3)
 - 幻灯: [ZHGDG_HOA.6_分布式元数据快速同步算法 // Speaker Deck](https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-6-fen-bu-shi-yuan-shu-ju-kuai-su-tong-bu-suan-fa)
 
 老寥以从容淡定的态度以及语速, 回顾了自个儿一个私人开源项目的有关算法结论:
@@ -75,7 +75,7 @@ ODS(Orthogonal Digest Sync)算法 比较合适,
 
 ![](http://ww4.sinaimg.cn/bmiddle/53809965jw1egaepga3z8j219c0y0tir.jpg)
 
-- 录音: [140511_zhoa.6-2-visualization.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-visualization.MP3)
+- 录音: [140511_zhoa.6-2-visualization.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-visualization.MP3)
 - 幻灯: [ZHGDG_HOA.6_为什么去学算法 // Speaker Deck](https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-6-wei-shi-yao-qu-xue-suan-fa)
 
 自述说,自个儿业余时间折腾这事儿,是受到
@@ -103,10 +103,10 @@ ODS(Orthogonal Digest Sync)算法 比较合适,
 
 - 17:50 - 17:27   大妈 ~ 一切从游戏开始
 
-![](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511-hoa6-5.png)
+![](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511-hoa6-5.png)
 
 - 幻灯: [ZHGDG_HOA.6_从游戏开始](http://s5.zoomquiet.io/140511-hoa6-start4game/index.html)
-- 录音: [140511_zhoa.6-2-zq-4game.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-zq-4game.MP3)
+- 录音: [140511_zhoa.6-2-zq-4game.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-zq-4game.MP3)
 
 整理这一故事时,大妈才惊讶的发现,这居然是 `12` 年前的故事了!
 
@@ -157,10 +157,10 @@ ODS(Orthogonal Digest Sync)算法 比较合适,
 
 录音:
 
-- [140511_zhoa.6-0-intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-0-intro.MP3)
-- [140511_zhoa.6-1-liao.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-1-liao.MP3)
-- [140511_zhoa.6-2-visualization.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-visualization.MP3)
-- [140511_zhoa.6-2-zq-4game.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-zq-4game.MP3)
+- [140511_zhoa.6-0-intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-0-intro.MP3)
+- [140511_zhoa.6-1-liao.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-1-liao.MP3)
+- [140511_zhoa.6-2-visualization.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-visualization.MP3)
+- [140511_zhoa.6-2-zq-4game.MP3](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511_zhoa.6-2-zq-4game.MP3)
 
 
 
@@ -173,7 +173,7 @@ ODS(Orthogonal Digest Sync)算法 比较合适,
     - 大妈,真心月半了...即使发型儿可以回到7年前
 
 - 暨南大学,计算机系有靠谱 MM:
-    - ![](http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/140511-hoa6-6.png)
+    - ![](http://0.zoomquiet.top/ZHGDG/2014/140511-hoa6-algorithm/140511-hoa6-6.png)
     - 就是因为,听过大妈一次上门分享,记住了珠海GDG
     - 然后,因为专业关系,想知道算法的真正使用情景,就来了
     - 认真作笔记,努力理解,勇敢提问

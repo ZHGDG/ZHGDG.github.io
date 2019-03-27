@@ -13,7 +13,7 @@ tags:  gdg 珠的自白 dm wechat people
 - 为毛自称 `大妈` ? 说起来都是桑心事儿,以后再解释!
 
 
-![zq-eyes_130821_09.38.57.png](http://zoomq.qiniudn.com/logos/zq-eyes_130821_09.38.57.png)
+![zq-eyes_130821_09.38.57.png](http://0.zoomquiet.top/logos/zq-eyes_130821_09.38.57.png)
 
 
 同学们好,我是 Zoom.Quiet,社区称号: `大妈`

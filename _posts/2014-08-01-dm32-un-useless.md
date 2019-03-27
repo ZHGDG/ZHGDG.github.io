@@ -135,7 +135,7 @@ tags:  gdg 珠的自白 dm wechat people
 
 真真儿令俺 醍醐灌顶 般激想了不少, 请参考现场的记录:
 
-- 录音: [140720-H1-am2-weijr.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140719_20-coscup/140720-H1-am2-weijr.MP3)
+- 录音: [140720-H1-am2-weijr.MP3](http://0.zoomquiet.top/ZHGDG/2014/140719_20-coscup/140720-H1-am2-weijr.MP3)
 - 纪要: [H1 文字轉播 Day 2 (7/20)](https://coscup.hackpad.com/H1-Day-2-720-7VUTXJkqpVN)
 
 当然,涉及教育,更加接近的是 [复旦校长的风骨:公开向一女生道歉;阐释"自由而无用的灵魂",宁愿学生虚度光阴也不要误用光阴](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MzQ4NTY5Mg==&appmsgid=10000211&itemidx=1&sign=0039ba7b47efc537702964328da33bfb&scene=1#wechat_redirect)

@@ -9,7 +9,7 @@ tags:  gdg hoa event summary
 
 首次跨城市HOA联合活动
 
-![](http://zoomq.qiniudn.com/ZHGDG/2014/140813-hoa8-go4gae/140813-zq-gae-go.png?imageView2/2/w/600)
+![](http://0.zoomquiet.top/ZHGDG/2014/140813-hoa8-go4gae/140813-zq-gae-go.png?imageView2/2/w/600)
 
 (国内,今年;-)
 
@@ -41,7 +41,7 @@ tags:  gdg hoa event summary
 ## 资料
 
 - 教程: [42分钟乱入 GAE(with go1) !-) — chaos2go1](http://chaos2.qiniudn.com/go1/build/html/)
-- 录音: [140813HOA.8-go4gae.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140813-hoa8-go4gae/140813HOA.8-go4gae.MP3)
+- 录音: [140813HOA.8-go4gae.MP3](http://0.zoomquiet.top/ZHGDG/2014/140813-hoa8-go4gae/140813HOA.8-go4gae.MP3)
 - 视频(U2B): [X Startup Station: GAE/Golang](https://www.youtube.com/watch?v=JeT7ZPJwhps)
 
 ## 纪要

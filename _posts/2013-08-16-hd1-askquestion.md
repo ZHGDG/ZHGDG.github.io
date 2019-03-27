@@ -15,7 +15,7 @@ tags:  gdg 海选文章 hd wechat km
 
 ## How To Ask Questions the Smart Way
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/130816-hd1-questions4mind.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/130816-hd1-questions4mind.png)
 
 中文译为:"智慧的提问" ,
 这一著名的开源社区文档的起草者是: Eric Steven Raymond, 就是写出"大教堂和市集"等史称开源文化5部曲的大牛,

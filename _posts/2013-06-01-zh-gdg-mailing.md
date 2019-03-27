@@ -7,7 +7,7 @@ categories: Doc
 tags:  gdg guider paper
 ---
 
-![ZH_GDG_Logo_1024b.png](http://zoomq.qiniudn.com/ZHGDG/design/GDG_logo/131129-re-logo/131130_ZHGDG_logo%E6%A8%AA%E5%B9%852_w500.png)
+![ZH_GDG_Logo_1024b.png](http://0.zoomquiet.top/ZHGDG/design/GDG_logo/131129-re-logo/131130_ZHGDG_logo%E6%A8%AA%E5%B9%852_w500.png)
 
 
         人在珠海,面向全国,心系世界

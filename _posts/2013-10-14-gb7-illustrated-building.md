@@ -44,7 +44,7 @@ tags:  gdg G术图书 gb wechat book
 
 大妈上京服雾鸟! 刚好可以掺合又一次的 #阅读邻居# 读书活动!
 
-录音已经释放: [ReadNeighbor/131013-readneighbor19](http://zoomq.qiniudn.com/ReadNeighbor/131013-readneighbor19)
+录音已经释放: [ReadNeighbor/131013-readneighbor19](http://0.zoomquiet.top/ReadNeighbor/131013-readneighbor19)
 
 
 在活动中,推荐的一本书就是这本口袋书!

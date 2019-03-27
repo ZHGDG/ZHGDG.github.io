@@ -37,11 +37,11 @@ tags:  gdg guider gmail
 
 1. [Google Sites](https://sites.google.com/) 中创建一个网站
 1. 绑定域名:
-    - ![140312-g-sites.png(PNG 图像,807x275 像素)](http://zoomq.qiniudn.com/ZHGDG/wechat/140312-g-sites.png)
+    - ![140312-g-sites.png(PNG 图像,807x275 像素)](http://0.zoomquiet.top/ZHGDG/wechat/140312-g-sites.png)
 1. 这时出现警告,要求验证这域名是你的
     - 指引到: [将站点映射到您自己的域名 - Google 协作平台帮助](https://support.google.com/sites/answer/99448?hl=zh-Hans)
 1. 使用 `CNAME` 的方式,在 dnspod 管理界面中自然的追加条目就好
-    - ![140312-g-webmaster.png(PNG 图像,751x647 像素)](http://zoomq.qiniudn.com/ZHGDG/wechat/140312-g-webmaster.png)
+    - ![140312-g-webmaster.png(PNG 图像,751x647 像素)](http://0.zoomquiet.top/ZHGDG/wechat/140312-g-webmaster.png)
     - 当然的, Google 贴心的提供了多种域名验证方式
     - 可以根据自个儿的情况选择
 
@@ -64,7 +64,7 @@ tags:  gdg guider gmail
 
 异常给力的是:
 
-![140312-g-sites-insert.png](http://zoomq.qiniudn.com/ZHGDG/wechat/140312-g-sites-insert.png)
+![140312-g-sites-insert.png](http://0.zoomquiet.top/ZHGDG/wechat/140312-g-sites-insert.png)
 
 秉承Google 一向的习惯,恨不能将一切服务都给包含在一切服务里.
 

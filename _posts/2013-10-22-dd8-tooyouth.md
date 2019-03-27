@@ -14,7 +14,7 @@ tags:  gdg D码点评 dd wechat coding
 全文推荐 _sumtec_新浪博客 的这篇文章!
 详细就不再抄了,
 
-不过,万一哪天被和谐了,可以看俺的收藏:[(1)新浪微博可以发140个字符?谁告诉你的!_sumtec_新浪博客](http://zoomq.qiniudn.com/ZQScrapBook/ZqFLOSS/data/20130903170942/index.html)
+不过,万一哪天被和谐了,可以看俺的收藏:[(1)新浪微博可以发140个字符?谁告诉你的!_sumtec_新浪博客](http://0.zoomquiet.top/ZQScrapBook/ZqFLOSS/data/20130903170942/index.html)
 
 
 ## 是也乎

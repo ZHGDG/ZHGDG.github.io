@@ -7,7 +7,7 @@ categories: Events
 tags:  gdg event io
 ---
 
-![io15-extended-horz-zhuhai.jpg](http://zoomq.qiniudn.com/ZHGDG/design/iogoogle/io15-extended-horz-zhuhai.jpg)
+![io15-extended-horz-zhuhai.jpg](http://0.zoomquiet.top/ZHGDG/design/iogoogle/io15-extended-horz-zhuhai.jpg)
 
 Google IO 2015 结束已有段时日,大家还对大会内容有印象吗?类似往年,让我们约个时间,找个地方,一起对这次大会做个回顾. 
 
@@ -21,7 +21,7 @@ Google IO 2015 结束已有段时日,大家还对大会内容有印象吗?类似
 - 地点: 金山软件大厦 F15 瑜珈 厅
 - 报名: https://jinshuju.net/f/AL58G5
 
-![150705zh-GoogleIORedux.png](http://zoomq.qiniudn.com/ZHGDG/design/iogoogle/150705zh-GoogleIORedux.png)
+![150705zh-GoogleIORedux.png](http://0.zoomquiet.top/ZHGDG/design/iogoogle/150705zh-GoogleIORedux.png)
 
 
 ##  地址和交通

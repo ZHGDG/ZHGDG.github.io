@@ -6,7 +6,7 @@ categories: EvenTs
 tags:  gdg DevFest Wear Android
 ---
 
-![df14zh-18-fullscene.png(PNG 图像,975x336 像素)](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/df14zh-18-fullscene.png?imageView2/2/w/450)
+![df14zh-18-fullscene.png(PNG 图像,975x336 像素)](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/df14zh-18-fullscene.png?imageView2/2/w/450)
 
 2014-10-18 珠海GDG 联合 北师大珠海分校 成功举办了 DevFest 2014 Android Wear 主题大会
 
@@ -24,7 +24,7 @@ tags:  gdg DevFest Wear Android
 - 到场: 97
 - 在线: 11
 
-![all](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/df14zh-1-all.png)
+![all](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/df14zh-1-all.png)
 
 ## 资料
 
@@ -34,11 +34,11 @@ Livin:
 
 record:
 
-- [141018-DevFestZHOA-1.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-1.MP3)
-- [141018-DevFestZHOA-2.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-2.MP3)
-- [141018-DevFestZHOA-3intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-3intro.MP3)
-- [141018-DevFestZH-GLASSX.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZH-GLASSX.MP3)
-- [141018-DevFestZHOA-SeaSun.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-SeaSun.MP3)
+- [141018-DevFestZHOA-1.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-1.MP3)
+- [141018-DevFestZHOA-2.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-2.MP3)
+- [141018-DevFestZHOA-3intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-3intro.MP3)
+- [141018-DevFestZH-GLASSX.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZH-GLASSX.MP3)
+- [141018-DevFestZHOA-SeaSun.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-SeaSun.MP3)
 
 
 Slides:
@@ -60,7 +60,7 @@ Slides:
 
 
 
-![thanxindia](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/df14zh-15-thanxindia.png)
+![thanxindia](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/df14zh-15-thanxindia.png)
 
 ~ `大吼 Thanx India ...`
 
@@ -87,7 +87,7 @@ Slides:
 - ~ 17:30 SeaSun 工程师 ~ [Android Wear CodeLab](https://speakerdeck.com/zoomquiet/devfest14-zhuhai-android-wear-codelab)
 - ~ 18:30 设备体验和自由问答 
 
-![wears](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/141018df-wear.jpg)
+![wears](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/141018df-wear.jpg)
 
 ~ `提供有丰富的设备亲自体验`
 
@@ -123,7 +123,7 @@ Slides:
 
 加入 珠海GDG 有丰富的礼物:
 
-![gifts](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/141018df-gifts.jpg)
+![gifts](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/141018df-gifts.jpg)
 
 
 

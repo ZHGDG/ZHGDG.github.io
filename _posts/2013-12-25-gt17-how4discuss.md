@@ -8,7 +8,7 @@ tags:  gdg devfest event notice
 ---
 
 
-![131225-gt17-how4discuss.jpg(JPEG 图像,500x381 像素)](http://zoomq.qiniudn.com/ZHGDG/wechat/131225-gt17-how4discuss.jpg)
+![131225-gt17-how4discuss.jpg(JPEG 图像,500x381 像素)](http://0.zoomquiet.top/ZHGDG/wechat/131225-gt17-how4discuss.jpg)
 
 ## [如何讨论问题](http://blog.sina.com.cn/s/blog_3f0fda9b0102e36v.html)
 

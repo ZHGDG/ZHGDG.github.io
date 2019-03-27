@@ -7,7 +7,7 @@ categories: Events
 tags:  gdg PythoniCamp event summary
 ---
 
-![141208](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141208-sod-all-2.png?imageView2/2/w/512)
+![141208](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141208-sod-all-2.png?imageView2/2/w/512)
 
 关键数据:
 
@@ -54,7 +54,7 @@ tags:  gdg PythoniCamp event summary
 
 ### 2.  大妈 自我介绍
 
-录音: [141206-sysu-0-intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141206-sysu-0-intro.MP3)
+录音: [141206-sysu-0-intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141206-sysu-0-intro.MP3)
 
 A.GDG介绍:本次活动由珠海谷歌开发者社区赞助和主办. 
 
@@ -63,9 +63,9 @@ B. 大妈 身份介绍:本次活动的主讲人,以GDG创办者身份接待我�
 C.猎豹公司角色:猎豹公司提供场地及参观机会. 
 
 ### 3. 问题集回答
-![141208-sod-1.png](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141208-sod-1.png)
+![141208-sod-1.png](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141208-sod-1.png)
 
-录音: [141206-sysu-1-dama.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141206-sysu-1-dama.MP3)
+录音: [141206-sysu-1-dama.MP3](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141206-sysu-1-dama.MP3)
 
 大妈 首先概况了同学们的提问动机分为两类:一是关注自己,一是关注公司. 进而将问题分为两大类:能回答的问题和不能回答的问题(60%以上). 
 
@@ -86,9 +86,9 @@ C.猎豹公司角色:猎豹公司提供场地及参观机会.
     + 3. 积累证明自己的材料
 
 ### 3. 现场提问
-![141208-sod-discuss.png](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141208-sod-discuss.png)
+![141208-sod-discuss.png](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141208-sod-discuss.png)
 
-录音: [141206-sysu-2-qa.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141206-sysu-2-qa.MP3)
+录音: [141206-sysu-2-qa.MP3](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141206-sysu-2-qa.MP3)
 
 A. 小公司和大公司的区别?
 
@@ -113,7 +113,7 @@ F. 为何IOS比Android的运行速度快?
 ### 5. 为主讲人赠送礼物
 本次参与活动同学派代表赠送了一幅字给主讲人
 
-![141208-sod-words.png](http://zoomq.qiniudn.com/ZHGDG/2014/141206-sod-sysu/141208-sod-words.png)
+![141208-sod-words.png](http://0.zoomquiet.top/ZHGDG/2014/141206-sod-sysu/141208-sod-words.png)
 
 ## 活动总结
 

@@ -7,7 +7,7 @@ tags:  gdg hoa event summary
 ---
 
 
-![](http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_4.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x300a120a250)
+![](http://0.zoomquiet.top/ZQCollection/foto/140816-hoa9_4.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x300a120a250)
 
 再一次硬技术话题,纯粹程序媛集会 ;-()
 
@@ -33,28 +33,28 @@ tags:  gdg hoa event summary
 - 14:35 - 15:00   门卫签到
     - 抓到了野生 赖总 现场签名!
 
-![签名](http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_8.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a120a350)
+![签名](http://0.zoomquiet.top/ZQCollection/foto/140816-hoa9_8.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a120a350)
 
 墨宝哪,一看就是专门练过的...`当然,大妈提供的专用签字笔也是有功的;-)`
 
-![book](http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_7.pic.jpg?imageMogr2/thumbnail/800x/crop/!640x460a120a150)
+![book](http://0.zoomquiet.top/ZQCollection/foto/140816-hoa9_7.pic.jpg?imageMogr2/thumbnail/800x/crop/!640x460a120a150)
 
 
 - 15:05 - 15:15   GDG自述
-    - [幻灯](https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro) ;录音:[140816-0-intro-zhgdg.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140816-hoa9-litepycon/140816-0-intro-zhgdg.MP3)
+    - [幻灯](https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro) ;录音:[140816-0-intro-zhgdg.MP3](http://0.zoomquiet.top/ZHGDG/2014/140816-hoa9-litepycon/140816-0-intro-zhgdg.MP3)
 
 - 15:20 - 16:05   涛哥 "SequoiaDB的Python 驱动"
-    - [幻灯](https://speakerdeck.com/zoomquiet/140810-intro-sequoiadb) ;录音: [140816-1-SequoiaDB-Py.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140816-hoa9-litepycon/140816-1-SequoiaDB-Py.MP3)
+    - [幻灯](https://speakerdeck.com/zoomquiet/140810-intro-sequoiadb) ;录音: [140816-1-SequoiaDB-Py.MP3](http://0.zoomquiet.top/ZHGDG/2014/140816-hoa9-litepycon/140816-1-SequoiaDB-Py.MP3)
 
-![sequoiaDB](http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_6.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a120a150)
+![sequoiaDB](http://0.zoomquiet.top/ZQCollection/foto/140816-hoa9_6.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a120a150)
 
 ~ 国产原创通用NoSQL数据库!
 
 
 - 16:10 - 17:05   赖总 "python web dev 的困惑与突破"
-    - [幻灯](https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-9-pyde-kun-huo-he-tu-po) ;录音: [140816-2-py-web-big-question.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140816-hoa9-litepycon/140816-2-py-web-big-question.MP3)
+    - [幻灯](https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-9-pyde-kun-huo-he-tu-po) ;录音: [140816-2-py-web-big-question.MP3](http://0.zoomquiet.top/ZHGDG/2014/140816-hoa9-litepycon/140816-2-py-web-big-question.MP3)
 
-![laiyh](http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_5.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a120a120)
+![laiyh](http://0.zoomquiet.top/ZQCollection/foto/140816-hoa9_5.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a120a120)
 
 现场赶工完成的简洁幻灯,包含了一个大工程:
 [laiyonghao/wa](https://github.com/laiyonghao/wa)
@@ -62,13 +62,13 @@ tags:  gdg hoa event summary
 
 - 17:05 - 17:10   现场合影
 - 17:10 - 17:45   大妈 "在移动设备上用Python完成App原型"
-    - 幻灯:[QPy 101](https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-9-intro-qpython); 录音: [140819-3-qpy-intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140816-hoa9-litepycon/140819-3-qpy-intro.MP3)
+    - 幻灯:[QPy 101](https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-9-intro-qpython); 录音: [140819-3-qpy-intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/140816-hoa9-litepycon/140819-3-qpy-intro.MP3)
 
 
 ## 资料
 
 - `2:46` [视频](https://www.youtube.com/watch?v=hJBWF4mkfcA)
-- 录音[下载](http://zoomq.qiniudn.com/ZHGDG/2014/140816-hoa9-litepycon/index.html)
+- 录音[下载](http://0.zoomquiet.top/ZHGDG/2014/140816-hoa9-litepycon/index.html)
 - 幻灯:
     - [2.22-SOD-ZQ-ZHGDG_intro.](https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro)
     - [140810-intro_sequoiaDB](https://speakerdeck.com/zoomquiet/140810-intro-sequoiadb)
@@ -83,7 +83,7 @@ tags:  gdg hoa event summary
 - PyCon ~ Python年会,这次都是Py 主题内容,另外也是对 11/15 珠海场大会的预演
     给没有来珠海的亲们,先认个道儿
 
-![现场](http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_9.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a160a160)
+![现场](http://0.zoomquiet.top/ZQCollection/foto/140816-hoa9_9.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x320a160a160)
 
 
 

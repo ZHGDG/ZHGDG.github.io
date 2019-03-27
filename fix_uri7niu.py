@@ -19,10 +19,10 @@ def fixall(p2md):
         for line in open(_page,'r').readlines():
             #print line
 
-            if "http://zoomq.qiniucdn.com" in line:
+            if "http://zoomq.qiniudn.com/" in line:
                 print line,"\n==>"
-                _rel = line.replace('](http://zoomq.qiniucdn.com'
-                                    , '](http://0.zoomquiet.top')
+                _rel = line.replace('](http://zoomq.qiniudn.com/'
+                                    , '](http://0.zoomquiet.top/')
                 #print "{} \n==>\n {}".format(line, _rel)
                 print _rel
                 _remd += _rel

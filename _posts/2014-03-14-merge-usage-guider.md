@@ -55,22 +55,22 @@ subject:     向大家介绍直接在Google Drive里利用Docs和Spreadsheet发�
 ![](http://skm.zoomquiet.io/data/20140313181550/mergeinstalled.jpg)
 
 然后自然的选择数据表,选择动态字段,配置邮件信息,而且可以实时 预览
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/140314-merge-0.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/140314-merge-0.png)
 
 只需几分钟,几百封活动通知就会发出去了. 
 
 有爱的发送条件自检
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/140314-merge-1.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/140314-merge-1.png)
 
 
 成功后的 `High Fives`
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/140314-merge-2.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/140314-merge-2.png)
 
 收到的邮件
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/140314-merge-end.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/140314-merge-end.png)
 
 最贴心的是可以实时观察邮件的送达/阅读情况
 

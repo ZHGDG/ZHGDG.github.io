@@ -32,7 +32,7 @@ tags:  gdg guider blog
 ![kmtranfer2.gif](http://s5.zoomquiet.io/090401-KsKM/pic/kmtranfer2.gif)
 
 - 演讲: [110311-why-km/](http://s5.zoomquiet.io/110311-why-km)
-    + 录音:[110617-why-km](http://zoomq.qiniudn.com/CPyUG/zq2voice/110617-why-km/index.html)
+    + 录音:[110617-why-km](http://0.zoomquiet.top/CPyUG/zq2voice/110617-why-km/index.html)
 - 文章:
     + [提问的智慧](http://wiki.woodpecker.org.cn/moin/AskForHelp)
     + ["假学习"和"真学习"](http://www.zreading.cn/archives/1629.html)

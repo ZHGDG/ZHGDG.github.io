@@ -7,7 +7,7 @@ tags:  gdg HwH summary
 ---
 
 
-![140927-hwh-8.pic.jpg(JPEG 图像,500x333 像素)](http://zoomq.qiniudn.com/ZQCollection/foto/140927-hwh-8.pic.jpg?imageMogr2/crop/!900x600a70a100|imageView2/2/w/500|watermark/2/text/Wm9vbS5RdWlldA==/fill/V2hpdGU=/fontsize/400/dissolve/85)
+![140927-hwh-8.pic.jpg(JPEG 图像,500x333 像素)](http://0.zoomquiet.top/ZQCollection/foto/140927-hwh-8.pic.jpg?imageMogr2/crop/!900x600a70a100|imageView2/2/w/500|watermark/2/text/Wm9vbS5RdWlldA==/fill/V2hpdGU=/fontsize/400/dissolve/85)
 
 有关活动形式 ~ HwH
 
@@ -40,22 +40,22 @@ tags:  gdg HwH summary
 
 - 14:00 ~ 14:30 现场班会,推荐 HwH 活动
 - ~15:00 现场报名
-    + GDG [自述](http://zoomq.qiniudn.com/ZHGDG/2014/140927-hwh-sae/140927-hwh-0-gdg.MP3)
-    + [活动解释](http://zoomq.qiniudn.com/ZHGDG/2014/140927-hwh-sae/140927-hwh-1-intro.MP3)
-    + [学员自述](http://zoomq.qiniudn.com/ZHGDG/2014/140927-hwh-sae/140927-hwh-2-intro-self.MP3)
+    + GDG [自述](http://0.zoomquiet.top/ZHGDG/2014/140927-hwh-sae/140927-hwh-0-gdg.MP3)
+    + [活动解释](http://0.zoomquiet.top/ZHGDG/2014/140927-hwh-sae/140927-hwh-1-intro.MP3)
+    + [学员自述](http://0.zoomquiet.top/ZHGDG/2014/140927-hwh-sae/140927-hwh-2-intro-self.MP3)
 - ~18:00 边说边练
-    + 幻灯:[GDGZH_HwH-SAE-101_v140927.pdf](http://zoomq.qiniudn.com/ZHGDG/HwH/sae101/GDGZH_HwH-SAE-101_v140927.pdf)
+    + 幻灯:[GDGZH_HwH-SAE-101_v140927.pdf](http://0.zoomquiet.top/ZHGDG/HwH/sae101/GDGZH_HwH-SAE-101_v140927.pdf)
 
-![140927-hwh-11.pic.jpg(JPEG 图像,500x333 像素)](http://zoomq.qiniudn.com/ZQCollection/foto/140927-hwh-11.pic.jpg?imageMogr2/crop/!900x600a150a200|imageView2/2/w/500|watermark/2/text/Wm9vbS5RdWlldA==/fill/V2hpdGU=/fontsize/400/dissolve/85)
+![140927-hwh-11.pic.jpg(JPEG 图像,500x333 像素)](http://0.zoomquiet.top/ZQCollection/foto/140927-hwh-11.pic.jpg?imageMogr2/crop/!900x600a150a200|imageView2/2/w/500|watermark/2/text/Wm9vbS5RdWlldA==/fill/V2hpdGU=/fontsize/400/dissolve/85)
 
 
 ## 资料
 
-- 教学资源: [sae101/](http://zoomq.qiniudn.com/ZHGDG/HwH/sae101)
+- 教学资源: [sae101/](http://0.zoomquiet.top/ZHGDG/HwH/sae101)
 - 录音:
-    + [140927-hwh-0-gdg.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140927-hwh-sae/140927-hwh-0-gdg.MP3)
-    + [140927-hwh-1-intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140927-hwh-sae/140927-hwh-1-intro.MP3)
-    + [140927-hwh-3-live-record.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/140927-hwh-sae/140927-hwh-3-live-record.MP3)
+    + [140927-hwh-0-gdg.MP3](http://0.zoomquiet.top/ZHGDG/2014/140927-hwh-sae/140927-hwh-0-gdg.MP3)
+    + [140927-hwh-1-intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/140927-hwh-sae/140927-hwh-1-intro.MP3)
+    + [140927-hwh-3-live-record.MP3](http://0.zoomquiet.top/ZHGDG/2014/140927-hwh-sae/140927-hwh-3-live-record.MP3)
 - 视频:
     - [导入](https://www.youtube.com/watch?v=f0twLKylinA)
     - [实况](https://www.youtube.com/watch?v=rzi5A8IRadk)

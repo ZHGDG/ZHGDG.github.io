@@ -298,7 +298,7 @@ $ git push -f
 
 进入以下界面后填写相关内容,点击"发送合并请求"
 
-![140825-gitcafe.jpg(JPEG 图像,750x423 像素)](http://zoomq.qiniudn.com/ZHGDG/wechat/140825-gitcafe.jpg)
+![140825-gitcafe.jpg(JPEG 图像,750x423 像素)](http://0.zoomquiet.top/ZHGDG/wechat/140825-gitcafe.jpg)
 
 ##### 完成合并
 管理员将在主仓库的 `合并请求` 列表中看到新的 PR

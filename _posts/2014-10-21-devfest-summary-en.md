@@ -6,7 +6,7 @@ categories: EvenTs
 tags:  gdg DevFest Wear Android
 ---
 
-![df14zh-18-fullscene.png(PNG 图像,975x336 像素)](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/df14zh-18-fullscene.png?imageView2/2/w/450)
+![df14zh-18-fullscene.png(PNG 图像,975x336 像素)](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/df14zh-18-fullscene.png?imageView2/2/w/450)
 
 2014-10-18 GDG Zhuhai make one happy JointEvents with:
 
@@ -28,7 +28,7 @@ tags:  gdg DevFest Wear Android
 - be present: 97
 - on line: 11
 
-![all](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/df14zh-1-all.png)
+![all](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/df14zh-1-all.png)
 
 ## stuff
 
@@ -38,11 +38,11 @@ Livin Youtube:
 
 Record:
 
-- [141018-DevFestZHOA-1.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-1.MP3)
-- [141018-DevFestZHOA-2.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-2.MP3)
-- [141018-DevFestZHOA-3intro.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-3intro.MP3)
-- [141018-DevFestZH-GLASSX.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZH-GLASSX.MP3)
-- [141018-DevFestZHOA-SeaSun.MP3](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-SeaSun.MP3)
+- [141018-DevFestZHOA-1.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-1.MP3)
+- [141018-DevFestZHOA-2.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-2.MP3)
+- [141018-DevFestZHOA-3intro.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-3intro.MP3)
+- [141018-DevFestZH-GLASSX.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZH-GLASSX.MP3)
+- [141018-DevFestZHOA-SeaSun.MP3](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/141018-DevFestZHOA-SeaSun.MP3)
 
 
 Presentations:
@@ -63,7 +63,7 @@ Presentations:
         + [backup video](https://www.youtube.com/watch?v=S7QEjWymDXg)
 
 
-![thanxindia](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/df14zh-15-thanxindia.png)
+![thanxindia](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/df14zh-15-thanxindia.png)
 
 ~ `growl: "Thanx India ..."`
 
@@ -94,7 +94,7 @@ GDG Zhuhai complete Cross-Country Joint Events with 3 others GDG:
 - ~ 17:30 SeaSun ~ [Android Wear CodeLab](https://speakerdeck.com/zoomquiet/devfest14-zhuhai-android-wear-codelab)
 - ~ 18:30 end and QA 
 
-![wears](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/141018df-wear.jpg)
+![wears](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/141018df-wear.jpg)
 
 ~ `Provide multi-equipment for personally experience`
 
@@ -122,7 +122,7 @@ for my personal ,there is some main problem:
     + `analyze:` finally some teacher tell us must config esp. static IP to AP 
     + `solution:` next we must test really HOA before event for collected all magic networking config!
 
-![gifts](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/foto/141018df-gifts.jpg)
+![gifts](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/foto/141018df-gifts.jpg)
 
 
 

@@ -7,7 +7,7 @@ tags:  gdg summary evnets
 ---
 
 
-![131129_ZHGDG_barnner_h80.png(PNG 图像,290x80 像素)](http://zoomq.qiniudn.com/ZHGDG/design/131129_ZHGDG_barnner_h80.png)
+![131129_ZHGDG_barnner_h80.png(PNG 图像,290x80 像素)](http://0.zoomquiet.top/ZHGDG/design/131129_ZHGDG_barnner_h80.png)
 
 
 珠海GDG Q4 关键数据:

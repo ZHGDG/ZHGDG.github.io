@@ -182,7 +182,7 @@ tags:  gdg guider blog
 - 文章作者是 配置文件中 `zoomq` 变量指代的对象
 - 必须事先在 `_config.yml` 中有相应配置的作者,在此声明才有效
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/140911-blog-matter-author.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/140911-blog-matter-author.png)
 
 以上,标题下方, `Author` 引导的一系列作者的私人信息对应配置是:
 

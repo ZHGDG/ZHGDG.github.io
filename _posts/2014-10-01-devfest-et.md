@@ -45,7 +45,7 @@ Google DevFest(谷歌开发者节)是全球各地 Google 开发者社区(GDG)组
 - 表单: [gdgdocs.org/r/lB1BNM](https://gdgdocs.org/r/lB1BNM)
 - 或是扫描访问
 
-![140928-devfest-1018-wear_lB1BNM.png](http://zoomq.qiniudn.com/ZHGDG/2014/141018-devfest/140928-devfest-1018-wear_lB1BNM.png)
+![140928-devfest-1018-wear_lB1BNM.png](http://0.zoomquiet.top/ZHGDG/2014/141018-devfest/140928-devfest-1018-wear_lB1BNM.png)
 
 现场提示:
 有专人专线,现场指导,注册为 珠海GDG 成员, 不仅为获得特种纪念品

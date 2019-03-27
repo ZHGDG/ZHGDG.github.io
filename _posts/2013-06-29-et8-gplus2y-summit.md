@@ -24,25 +24,25 @@ tags:  gdg gplus event summary
 <!--more-->
 
 - 14:17 蛋糕到场,正式开始
-    - 照例的暖场: [录音](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-0-start.MP3)
-    - 以及每个人的三句半自述[录音](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-1-intro.MP3)
+    - 照例的暖场: [录音](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-0-start.MP3)
+    - 以及每个人的三句半自述[录音](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-1-intro.MP3)
     - 以及必须的应场声明:
         + 录音/录像 的版权免贵
         + 救火通道的指引声明
         + 自由拍摄的收集声明
     - 然后努力的分食8磅大蛋刀... 
-    - 期间尝试进行 #photowalk 验收配奖:[录音](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-2-fotowalk.MP3) ~ 无奈现场网络太挫...
+    - 期间尝试进行 #photowalk 验收配奖:[录音](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-2-fotowalk.MP3) ~ 无奈现场网络太挫...
    
 - 14:45 WPS的小郎哥快速分享 Google+ 的产品设计理解
     - 作为产品经理爱好者, 小郎坚持对各种喜爱的产品进行私人的思考,这次算首次GDG 公开分享...
-    - 录音: [130629-gplus2y-3-thinkingplus.MP3](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-3-thinkingplus.MP3)
+    - 录音: [130629-gplus2y-3-thinkingplus.MP3](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-3-thinkingplus.MP3)
     - 幻灯: [talk abt g+ design // Speaker Deck](https://speakerdeck.com/zoomquiet/talk-abt-g-plus-design)
-    - 只是因为岳母来袭,无法进行 QA, 于是大妈替代进行了有关 G+ 的体验补完: [130629-gplus2y-4-feel2gplus.MP3](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-4-feel2gplus.MP3)
+    - 只是因为岳母来袭,无法进行 QA, 于是大妈替代进行了有关 G+ 的体验补完: [130629-gplus2y-4-feel2gplus.MP3](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-4-feel2gplus.MP3)
    
 - 16:00 来自 MEIZU 的吴工,进行了纯技术分享
     - 完成命题思考,以及将 [5.15]#IOext 直播夜会 上的分享再技术化的说了一下
     - 本身是专门进行 android 系统稳定性/可用性/可维护性(RAS)研究的,所以,讲来游刃有余,余音不绝,绝对干货...
-    - 录音: [130629-gplus2y-5-meizu-android.MP3](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-5-meizu-android.MP3)
+    - 录音: [130629-gplus2y-5-meizu-android.MP3](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-5-meizu-android.MP3)
     - 幻灯: [abt android apps. beside // Speaker Deck](https://speakerdeck.com/zoomquiet/abt-android-apps-beside) + [吴章金-Android_Linux_RAS_Practice](https://speakerdeck.com/zoomquiet/wu-zhang-jin-android-linux-ras-practice)
     - 吴工,其实是通过 GDG 才认识的,他是现任兰州GDG 组委者周老师的学生,今年在三亚中国GDG 峰会上正式向珠海推荐的本地讲师... .
     - GDG 果断是好人聚集的社区,,,
@@ -52,7 +52,7 @@ tags:  gdg gplus event summary
     - 在国际上已经收获了N多赞,但是,对已经流传到网络中的碟照 耿耿于怀 ~ 太丑了!
     - 强烈要求社区帮忙出一系列高端大气上档次的产品硬照
     - 不过,性能的确是世界一! 预装了 Android 4.2.2 的 CubieTruck 现场通过 wifi 联网播放兰光电影,而声音是通过蓝牙音箱输出的! soo geek!
-    - 录音: [130629-gplus2y-6-cubietruk.MP3](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-6-cubietruk.MP3)
+    - 录音: [130629-gplus2y-6-cubietruk.MP3](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-6-cubietruk.MP3)
 
 
 - 17:55 长年大妈 Zoom.Quiet 这次又是一个偏门调查
@@ -63,7 +63,7 @@ tags:  gdg gplus event summary
         1. 公开演讲过没?
         2. 听过的演讲感觉那个最好,为什么?
         3. 今天的三个主题演讲,哪个相对最好,为什么?
-    - 录音: [130629-gplus2y-7-speak.MP3](http://zoomq.qiniudn.com/ZHGDG/130629-gplus-2year/130629-gplus2y-7-speak.MP3)
+    - 录音: [130629-gplus2y-7-speak.MP3](http://0.zoomquiet.top/ZHGDG/130629-gplus-2year/130629-gplus2y-7-speak.MP3)
     - 期望,大家平时也自问几次,开始尝试,将自个儿的各种体验,以公开分享的形式,有料/有种/有趣 的标准进行输出!
 
 - 最后,大家捧着充满了蛋刀,以及感想的肚子,下山回家!

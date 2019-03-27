@@ -59,7 +59,7 @@ or!i!in!_[:11]:S       =sum([E          (*x)for       !x!in!S],[])"imp
 
 当这段代码运行时,它会产生一个1000×1000的png格式的彭罗斯铺砖图案,里面包含有大概2212个具有3D浮雕效果的彭罗斯铺砖图. 下图是这个图片的一部分:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/130910-dd3-penrose-cropped.jpg)
+![](http://0.zoomquiet.top/ZHGDG/wechat/130910-dd3-penrose-cropped.jpg)
 
 这个脚本需要 [Pycairo](http://cairographics.org/pycairo/) 代码库. 它只能运行在Python <= 2.7 版本上;Phthon 3并不支持. 最初它是一个很正常的脚本,但经过我的努力,出现了神奇的视觉效果. 
 

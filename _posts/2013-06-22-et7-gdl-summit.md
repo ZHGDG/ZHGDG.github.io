@@ -29,33 +29,33 @@ tags:  gdg dgl hoa event summary
 <!--more-->
 
 - 13:30 正点开逻
-    - 照例的暖场,每个人的三句半自述([录音](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl0-intro.MP3))
+    - 照例的暖场,每个人的三句半自述([录音](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl0-intro.MP3))
     - 以及必须的应场台词,只是这次心里都是 HOA 直播的操作问题,忘记了必须的声明:
         + 录音/录像 的版权免贵
         + 救火通道的指引声明
         + 自由拍摄的收集声明
-       - 录音[130622-gdl1-misc.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl1-misc.MP3)
+       - 录音[130622-gdl1-misc.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl1-misc.MP3)
 - 13:45 CubieBoard 的 Benn 正式开始
     - 作为联合创始人,完全可以从讲述中体会到对开源硬件的热情
-    - 录音: [130622-gdl2-cubieboard.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl2-cubieboard.MP3)
+    - 录音: [130622-gdl2-cubieboard.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl2-cubieboard.MP3)
     - 幻灯:[ZHGDG6.22GDL-benn-intro-cubieboard](https://speakerdeck.com/zoomquiet/zhgdg6-dot-22gdl-benn-intro-cubieboard)
     - 而且现场演示了如何几分钟内部将完整的 Ubuntu 刷入机器,完全无码!
     - 现场提问也被丰富的可能性激发出来,一个接一个...
 - 15:00 开发经历丰富的刘老师,最近创业中
     - 毫无保留的将自个儿持续思考多年的命题拿出来分享:
     - 创业"债"~创业中应该明确知道不得不在欠的债务,以及偿还时的后果,但是,真心也没有摸索出靠谱的应对方案,但是,已经比下意识的忘记有这些债的要靠谱的多的多了,,,
-    - 录音: [130622-gdl3-marsliu.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl3-marsliu.MP3)
+    - 录音: [130622-gdl3-marsliu.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl3-marsliu.MP3)
     - 幻灯: [ZHGDG6.22GDL-march-liu-out-control](https://speakerdeck.com/zoomquiet/zhgdg6-dot-22gdl-march-liu-out-control)
     - 提问阶段,因为刘老师一向的冷幽默,导致演讲中宅梗太多听众多数的没有反应过来,只有同在创业阶段的  CubieBoard 的 benn 现场进行了讨教 ;-)
 - 16:37 快速间歇后, 珠海组委之一的 Bonnie 进行完全干货分享:
-    - 录音: [130622-gdl4-play-market.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl4-play-market.MP3)
+    - 录音: [130622-gdl4-play-market.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl4-play-market.MP3)
     - 幻灯: [how to enter Play Market for Chinese](https://speakerdeck.com/zoomquiet/how-to-enter-play-market-for-chinese)
     - 以自身的经历,分享,中国大陆团队,如何合理的进入 Google Play 市场,以及进行销售!
     - 岗岗的干货中的干货,完全上年份儿的长城干邑 !
     - 建议,所有想冲出国门,收美刀的团队认真收看...
 - 17:07 长年大妈 Zoom.Quiet 这次又是一个偏门分享
-    - 案例: [zoomquiet-design-collection/](http://zoomq.qiniudn.com/CPyUG/zoomquiet-design-collection)
-    - 录音: [130622-gdl5-coder-design.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl5-coder-design.MP3)
+    - 案例: [zoomquiet-design-collection/](http://0.zoomquiet.top/CPyUG/zoomquiet-design-collection)
+    - 录音: [130622-gdl5-coder-design.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl5-coder-design.MP3)
     - 从程序猿角度分享各种设计体验,鼓励大家勇敢的为自个儿喜爱的社区进行设计方面的贡献
     - 总结出不算是经验的体验:
         1. 多用矢量作图软件, 推荐[Inkscape](http://wiki.woodpecker.org.cn/moin/ZqSharing/OpenClipart#Inkscape)
@@ -89,10 +89,10 @@ tags:  gdg dgl hoa event summary
 资料:
 
 - CubieBoard:
-    - 录音: [130622-gdl2-cubieboard.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl2-cubieboard.MP3)
+    - 录音: [130622-gdl2-cubieboard.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl2-cubieboard.MP3)
     - 幻灯:[ZHGDG6.22GDL-benn-intro-cubieboard](https://speakerdeck.com/zoomquiet/zhgdg6-dot-22gdl-benn-intro-cubieboard)
 - 创业"债"
-    - 录音: [130622-gdl3-marsliu.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl3-marsliu.MP3)
+    - 录音: [130622-gdl3-marsliu.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl3-marsliu.MP3)
     - 幻灯: [ZHGDG6.22GDL-march-liu-out-control](https://speakerdeck.com/zoomquiet/zhgdg6-dot-22gdl-march-liu-out-control)
 
 ### bonnie+Zoom.Quiet
@@ -105,11 +105,11 @@ tags:  gdg dgl hoa event summary
 
 - 进入Play 市场:
     - 录音:
- [130622-gdl4-play-market.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl4-play-market.MP3)
+ [130622-gdl4-play-market.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl4-play-market.MP3)
     - 幻灯: [how to enter Play Market for Chinese](https://speakerdeck.com/zoomquiet/how-to-enter-play-market-for-chinese)
 - 程序猿的设计:
-    - 案例: [zoomquiet-design-collection/](http://zoomq.qiniudn.com/CPyUG/zoomquiet-design-collection)
-    - 录音: [130622-gdl5-coder-design.MP3](http://zoomq.qiniudn.com/ZHGDG/130622-gdl/130622-gdl5-coder-design.MP3)
+    - 案例: [zoomquiet-design-collection/](http://0.zoomquiet.top/CPyUG/zoomquiet-design-collection)
+    - 录音: [130622-gdl5-coder-design.MP3](http://0.zoomquiet.top/ZHGDG/130622-gdl/130622-gdl5-coder-design.MP3)
 
 
 ##应邀讲师:

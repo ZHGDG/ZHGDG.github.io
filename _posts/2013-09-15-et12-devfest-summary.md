@@ -67,7 +67,7 @@ Organizer of ZhuHai GDG
 
 这是一个被预报阵雨的秋日...绝对没有预想到可以 happy 到这份儿上:
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_happytogether.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_happytogether.png)
 
 回想,事儿是怎么一步步发生的呢?
 
@@ -89,9 +89,9 @@ Organizer of ZhuHai GDG
     - 影音版权
 - 并郑重致歉: 预订的会场被抢,而13层在进行重装修,一整天,大家只能忍着工程噪音来学习了..
 - 就结束了会前环节
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_0-start.MP3)
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_0-start.MP3)
 
-## ~ 11:00 社区回顾 ; [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_1-review.MP3)/ [幻灯](http://zoomquiet.org/res/s5/130914-devfest-zh/)
+## ~ 11:00 社区回顾 ; [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_1-review.MP3)/ [幻灯](http://zoomquiet.org/res/s5/130914-devfest-zh/)
 - 是的,继续是 ZQ 大妈,忍着帝都带回来的感冒引发的不时咳嗽,向小伙伴们汇报了
 - 珠海GDG 成立200天以来,作了什么,有什么变化
 - 以及针对全球GDG 在 G+ 上的活跃度统计,号召大家 "合法爱国" "科学上网" 多多使用 G+
@@ -104,11 +104,11 @@ Organizer of ZhuHai GDG
 ## ~ 14:00 午餐社交时间, 大合照
 - 我们见到了北理工志愿团队的风采
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_zhbit.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_zhbit.png)
 
 - 被各种消魂的大食法反复震惊住:
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_eating.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_eating.png)
 
 - 大家就着法棍啃着BBQ, 那真心无法端着优雅,所以,第一时间放开了心胸,玩到了一起...
 
@@ -120,16 +120,16 @@ Organizer of ZhuHai GDG
 ## ~ 14:30 Bonnie GA初体验:
 - 如何利用GA更好地管理你的应用数据,跟踪你的用户行为,是否可以有更多玩法?
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_bonnie.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_bonnie.png)
 
 - Bonnie 先是怒斥了在社区微信文章中对自个儿粗腿的连续报道, 然后艰难的一边科学上网,一边全真的展示,解释 GA 的各种实用服务
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_2-ga-101.MP3)
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_2-ga-101.MP3)
 - 幻灯: [DevFest2013ZhuHai-GA101](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-ga101)
 
 ## ~ 15:15 从HK赶来的 游文泰(Stanley)分享: "創新用户體驗平台﹣AR藍海"
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_hk.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_hk.png)
 
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_3-ux-design.MP3) / 幻灯讲师要求不予公开,目测是因为高端大气上档次的 prezi 幻灯太难制作了?!
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_3-ux-design.MP3) / 幻灯讲师要求不予公开,目测是因为高端大气上档次的 prezi 幻灯太难制作了?!
 - 以 Cherrypicks 在香港的实践,分享如何在移动 app 中应用增扩实景/无痕QR码/AR特效 进行了深入的回顾
 - 虽然,各种国际设计奖项也都得过,但是,依然有很多困惑...
 - 比如,同大陆同行们一样焦虑的,如何持续扩大安装量,保有率,而不是用几天就删除...
@@ -142,10 +142,10 @@ Organizer of ZhuHai GDG
 
 ## ~ 16:00 Benn 方糖科技联合创始人, 分享:"Cubieboard 的进击"
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_benn.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_benn.png)
 
 - Benn 几乎每期不拉的来支持 珠海GDG ,这次是分享社区建设体验的
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_4-cb-community.MP3)/ [幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-cb-news)
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_4-cb-community.MP3)/ [幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-cb-news)
 - CB 已进化到 3 了,方糖才着手整理技术社区
 - 结果发现,同全球销量完全对应, E文社区自主建立,自发增长,无论内容/规模/组织,都已经自然成长为非常给力的生态了!
 - 而中文社区,充满着伸手党,跪求教,漫骂派 的党徒, 就象扶不起的阿斗, 投入越多, 反响越奇葩
@@ -155,17 +155,17 @@ Organizer of ZhuHai GDG
 
 ## ~ 16:30 Sam Xu ,分享:"Google Earth 在风场选取中的应用"
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_sam.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_sam.png)
 
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_4-gearth.MP3)/[幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-google-earth-win-farm)
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_4-gearth.MP3)/[幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-google-earth-win-farm)
 - 老Xu 是刚刚旅游回来,就被抓了差, 分享了自个儿在风场评选过程中,利用 Google Earth 的体验
 - 深深震惊了大家的是 60后这种Geek 精神以及实践成果!
  
 ## ~ 16:40 间歇
 ## ~ 17:00 ZQ大妈 AngularJS 101 GDL自习
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_5-angular-101.MP3), 使用的幻灯: [google-hackFair-angularJS/](http://zoomquiet.org/res/d/google-hackFair-angularJS/); [angulargirl.com/](http://zoomquiet.org/res/d/angulargirl.com/)
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_5-angular-101.MP3), 使用的幻灯: [google-hackFair-angularJS/](http://zoomquiet.org/res/d/google-hackFair-angularJS/); [angulargirl.com/](http://zoomquiet.org/res/d/angulargirl.com/)
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_zq.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_zq.png)
 
 - 已经胖成猪头样的 ZQ大妈, 将GDL 自习的学习形式首次带入珠海GDG
 - 这其实才是 Google 官方强烈建议的GDG 学习形式!
@@ -190,9 +190,9 @@ Organizer of ZhuHai GDG
 
 
 ## ~ 17:45 UIC 小北: "程序媛"的道路
-- 笑起来极其治愈系的小北 ![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_kmoho_smile.png)
-- 没想到是纯粹的女汉纸! ![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_kmoho.png)
-- 不信?! 听[录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_6-way2coder.MP3) 
+- 笑起来极其治愈系的小北 ![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_kmoho_smile.png)
+- 没想到是纯粹的女汉纸! ![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_kmoho.png)
+- 不信?! 听[录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_6-way2coder.MP3) 
 - 参考[幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-way2programmer)
 - 其实,当初,拉 小北来分享 "程序媛的成长经验" 是想感化犹豫中的程序媛们,安心精进, 快速成为合格的 "程序媛"的!
 - 不是,现在的分享,一路喷专有名词,将所有妺纸吓跑的哪,,,亲!
@@ -201,11 +201,11 @@ Organizer of ZhuHai GDG
 
 ## ~ 18:00 北理 老高: 大学不甘了怎么办
 
-![](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_spawnris.png)
+![](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_spawnris.png)
 
 - "在一个漆黑的夜晚..."老高果断是 北理 科技类社团总瓢把子!
 - 将 "不甘社" 这么lu涩的计划,讲的那叫个天花乱坠! 引发了台下小伙伴各种"你懂的"闷笑
-- [录音](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_7-ugly.MP3)+[幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-ugly)
+- [录音](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_7-ugly.MP3)+[幻灯](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-ugly)
 - 不过,大妈比较自得的是 对 "不甘社" 的起名权,当初只是一个建议,没有想到获得了大伙的认同
 - 那么继续 KUSO 出国际范儿的名称吧:
     - 缩写: `UGLY`
@@ -263,31 +263,31 @@ Organizer of ZhuHai GDG
 
 ## 录音+幻灯
 
-- [130914devfest_0-start.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_0-start.MP3)
-- [130914devfest_1-review.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_1-review.MP3)
+- [130914devfest_0-start.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_0-start.MP3)
+- [130914devfest_1-review.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_1-review.MP3)
     - [130914-devfest-zh/](http://zoomquiet.org/res/s5/130914-devfest-zh/)
 
-- [130914devfest_2-ga-101.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_2-ga-101.MP3)
+- [130914devfest_2-ga-101.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_2-ga-101.MP3)
     - [DevFest2013ZhuHai-GA101](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-ga101)
 
-- [130914devfest_3-ux-design.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_3-ux-design.MP3)
+- [130914devfest_3-ux-design.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_3-ux-design.MP3)
     - 讲师要求不予公开
 
-- [130914devfest_4-cb-community.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_4-cb-community.MP3)
+- [130914devfest_4-cb-community.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_4-cb-community.MP3)
     - [DevFest2013ZhuHai-CB-news](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-cb-news)
 
-- [130914devfest_4-gearth.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_4-gearth.MP3)
+- [130914devfest_4-gearth.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_4-gearth.MP3)
     - [DevFest2013ZhuHai-Google Earth-win-farm](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-google-earth-win-farm)
 
-- [130914devfest_5-angular-101.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_5-angular-101.MP3)
+- [130914devfest_5-angular-101.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_5-angular-101.MP3)
     - [google-hackFair-angularJS/](http://zoomquiet.org/res/d/google-hackFair-angularJS/)
     - [angulargirl.com/](http://zoomquiet.org/res/d/angulargirl.com/)
     - [Introduction to AngularJS](http://v.youku.com/v_show/id_XNjA5Mjg3MjY4.html)
 
-- [130914devfest_6-way2coder.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_6-way2coder.MP3)
+- [130914devfest_6-way2coder.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_6-way2coder.MP3)
     - [DevFest2013ZhuHai-way2Programmer](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-way2programmer)
 
-- [130914devfest_7-ugly.MP3](http://zoomq.qiniudn.com/ZHGDG/130914-devfest-zh/130914devfest_7-ugly.MP3)
+- [130914devfest_7-ugly.MP3](http://0.zoomquiet.top/ZHGDG/130914-devfest-zh/130914devfest_7-ugly.MP3)
     - [DevFest2013ZhuHai-UGLY](https://speakerdeck.com/zoomquiet/devfest2013zhuhai-ugly)
 
 

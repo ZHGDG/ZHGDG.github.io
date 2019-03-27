@@ -13,7 +13,7 @@ tags:  gdg event bas summary
 - 实到: 27人 (女性4位)
     + 讲师 1 位 
 
-![151115_bas_all.jpg(JPEG 图像,3264x1173 像素) - 缩放 (37%)](http://zoomq.qiniudn.com/ZHGDG/2015/151115-bas/151115_bas_all.jpg?imageView2/2/w/520)
+![151115_bas_all.jpg(JPEG 图像,3264x1173 像素) - 缩放 (37%)](http://0.zoomquiet.top/ZHGDG/2015/151115-bas/151115_bas_all.jpg?imageView2/2/w/520)
 
 
 <!--more-->
@@ -29,10 +29,10 @@ tags:  gdg event bas summary
     + 现场 QA
 - 幻灯: [Python 快速通介 (powered by S5)](http://s5rst.qiniucdn.com/100820-introPy/index.html)
 - 录音:
-    + [151115_bas_0_py101_ZOOM0143.MP3](http://zoomq.qiniudn.com/ZHGDG/2015/151115-bas/151115_bas_0_py101_ZOOM0143.MP3)
-    + [151115_bas_1_class_ZOOM0144.MP3](http://zoomq.qiniudn.com/ZHGDG/2015/151115-bas/151115_bas_1_class_ZOOM0144.MP3)
-    + [151115_bas_2_qa_ZOOM0145.MP3](http://zoomq.qiniudn.com/ZHGDG/2015/151115-bas/151115_bas_2_qa_ZOOM0145.MP3)
-    + [151115_bas_3_pythonicamp_ZOOM0146.MP3](http://zoomq.qiniudn.com/ZHGDG/2015/151115-bas/151115_bas_3_pythonicamp_ZOOM0146.MP3)
+    + [151115_bas_0_py101_ZOOM0143.MP3](http://0.zoomquiet.top/ZHGDG/2015/151115-bas/151115_bas_0_py101_ZOOM0143.MP3)
+    + [151115_bas_1_class_ZOOM0144.MP3](http://0.zoomquiet.top/ZHGDG/2015/151115-bas/151115_bas_1_class_ZOOM0144.MP3)
+    + [151115_bas_2_qa_ZOOM0145.MP3](http://0.zoomquiet.top/ZHGDG/2015/151115-bas/151115_bas_2_qa_ZOOM0145.MP3)
+    + [151115_bas_3_pythonicamp_ZOOM0146.MP3](http://0.zoomquiet.top/ZHGDG/2015/151115-bas/151115_bas_3_pythonicamp_ZOOM0146.MP3)
 - 作业: 所有参加者, 要求在 72小时以内,以任意渠道,发布 512 字以上的参会记要,说明:
     + 分享内容记要
     + 其中自己感触最大的三点

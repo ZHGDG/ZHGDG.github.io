@@ -12,7 +12,7 @@ tags:  gdg devfest event reg
 
 
 # 号召
-![](http://zoomq.qiniudn.com/ZHGDG/design/DevFest/devfest-GDG_ZhuHai.svg)
+![](http://0.zoomquiet.top/ZHGDG/design/DevFest/devfest-GDG_ZhuHai.svg)
 
 珠海首次 `DevFest` 一定要 `HIGH` 起来!
 # 猛击-> [[9.14]GDG珠海DevFest 预订问卷](http://f.jeffkit.info/zoomquiet/devfest914zh/)
@@ -65,7 +65,7 @@ tags:  gdg devfest event reg
 
 ## 来吧! 不折腾要死星人们!
 
-![1-2013-7-27 18-07-02.JPG](http://zoomq.qiniudn.com/ZHGDG/130722-gdl/1-2013-7-27%2018-07-02.JPG)
+![1-2013-7-27 18-07-02.JPG](http://0.zoomquiet.top/ZHGDG/130722-gdl/1-2013-7-27%2018-07-02.JPG)
 
 
 所以,有这么多可学的,可玩的,可吃的,当然要预订座位了!

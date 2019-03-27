@@ -41,7 +41,7 @@ Frank R. 曰:
 如果断时间关闭HOA窗口,然后在回来(`URI`不变时)
 Youtube录像会继续. 中断的时间播放类似下面的画面. 
 
-![hoa-blank-image.png(PNG 图像,512x300 像素)](http://zoomq.qiniudn.com/ZHGDG/wechat/hao-guider/hoa-blank-image.png?imageView2/2/w/512)
+![hoa-blank-image.png(PNG 图像,512x300 像素)](http://0.zoomquiet.top/ZHGDG/wechat/hao-guider/hoa-blank-image.png?imageView2/2/w/512)
 
 
 前提是记住URI. 如何获得URI,见:[hangout url - Google Drive](https://docs.google.com/document/d/1_0wo43NfgpoWs2tygUa6uTPfNUW-koURxwK7uGVYLH4/edit)
@@ -56,7 +56,7 @@ Youtube录像会继续. 中断的时间播放类似下面的画面.
 1. 要发言时,再点击 MIC 图标打开音频
 
 ### HOA 的管理技巧
-![](http://zoomq.qiniudn.com/ZHGDG/2014/140813-hoa8-go4gae/140813-zq-gae-go.png?imageView2/2/w/512)
+![](http://0.zoomquiet.top/ZHGDG/2014/140813-hoa8-go4gae/140813-zq-gae-go.png?imageView2/2/w/512)
 
 如截屏, Hangout 内置了很多工具,常用的:
 

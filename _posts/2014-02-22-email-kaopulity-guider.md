@@ -241,11 +241,11 @@ tags:  gdg guider gmail
 
 然后,俺下载到 [muCommander( : a cross-platform file manager)](http://www.mucommander.com/) 中是这样的:
 
-![140508-bad-atta-mu.png](http://zoomq.qiniudn.com/ZQCollection/snap/140508-bad-atta-mu.png)
+![140508-bad-atta-mu.png](http://0.zoomquiet.top/ZQCollection/snap/140508-bad-atta-mu.png)
 
 尝试用伟大的 [7 - Zip](http://www.7-zip.org) 解开是这样的:
 
-![140508-bad-atta-7z.png](http://zoomq.qiniudn.com/ZQCollection/snap/140508-bad-atta-7z.png)
+![140508-bad-atta-7z.png](http://0.zoomquiet.top/ZQCollection/snap/140508-bad-atta-7z.png)
 
 
 郁闷ing:

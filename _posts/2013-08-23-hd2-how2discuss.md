@@ -14,7 +14,7 @@ tags:  gdg 海选文章 hd wechat thinking
 
 
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/130823-hd2-how2discuss.jpg)
+![](http://0.zoomquiet.top/ZHGDG/wechat/130823-hd2-how2discuss.jpg)
 
 # 如何探讨一个话题 by 阅读邻居 第六期
 

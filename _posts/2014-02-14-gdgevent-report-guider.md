@@ -7,7 +7,7 @@ categories: Doc
 tags:  gdg guider paper
 ---
 
-![131129_ZHGDG_barnner_h80.png](http://zoomq.qiniudn.com/ZHGDG/design/131129_ZHGDG_barnner_h80.png)
+![131129_ZHGDG_barnner_h80.png](http://0.zoomquiet.top/ZHGDG/design/131129_ZHGDG_barnner_h80.png)
 
     人在珠海,面向全国,心系世界
     Google Developer Groups(GDG) livin ZhuHai life
@@ -53,7 +53,7 @@ tags:  gdg guider paper
 1. 邮件列表:[珠海谷歌开发者社区](https://groups.google.com/forum/#!forum/gdg-zhuhai)
 1. 邮件列表:[GDG Leads Discussions](https://groups.google.com/forum/#!forum/gdg-leads)
 1. [@GDG珠海](http://weibo.com/gdgzh)
-1. ![qrcode_for_gh_5e32c47b5b23_258.jpg(JPEG 图像,258x258 像素)](http://zoomq.qiniudn.com/ZHGDG/design/qrcode_for_gh_5e32c47b5b23_258.jpg)
+1. ![qrcode_for_gh_5e32c47b5b23_258.jpg(JPEG 图像,258x258 像素)](http://0.zoomquiet.top/ZHGDG/design/qrcode_for_gh_5e32c47b5b23_258.jpg)
 1. BBS: [珠海GDG论坛 (Zhuhai GDG Forum)](http://www.chinagdg.com/forum-94-1.html)
 
 
@@ -130,17 +130,17 @@ tags:  gdg guider paper
 
 - 所有基于 G+ 服务的发布,
     - `权限需要:` G+帐号,并邀请为 [+GDG Zhuhai](https://plus.google.com/b/113382777332300419074/events) 的管理员
-    - ![plus-managers.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-managers.png)
+    - ![plus-managers.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-managers.png)
 - 所有基于 DevSite 服务的发布,
     - `权限需要:` DevSite 成员+对应GDG组织者身份
     - 前者在 [DevSite 帐号状态](https://developers.google.com/profile/status) 中配置确认
     - 后者要通过对应GDG 的管理员在 G+ 帐号信息中追加约定格式的链接:
-    - ![plus-organizer.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-organizer.png)
+    - ![plus-organizer.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-organizer.png)
     - 生效后,必须能在 GDG 的 Chapter 页面上看到
-    - ![devsite-zhgdg.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-zhgdg.png)
+    - ![devsite-zhgdg.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-zhgdg.png)
 - 所有基于 Docs 服务的发布,
     - `权限需要:` 珠海GDG Docs 目录权限
-    - ![driver-share-cfg.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/driver-share-cfg.png)
+    - ![driver-share-cfg.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/driver-share-cfg.png)
     - 可以注意到,为了方便一般目录的权限,都是绑定给某邮件列表的.
 - 所有基于 [blog.zhgdg.org](http://blog.zhgdg.org/categories.html#events-ref) 的官方报道
     - `权限需要:` 无要求,可通过发起 `git pull request` 完成
@@ -158,19 +158,19 @@ tags:  gdg guider paper
 
 - [GDG Events Statistic](https://script.google.com/macros/s/AKfycbxhUrO0-2JUBpw60pc8JYt77PMESyex4b6-JNvopbTboV2JIaSL/exec)
     - 北京GDG Jackie 作品,可以统计全球所有 GDG Chapter 指定时段的活动情况
-    - ![tools-event-stat.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/tools-event-stat.png)
+    - ![tools-event-stat.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/tools-event-stat.png)
 - [GDG Report](http://gdg-report.appspot.com)
     - 最新发布在 GAE 上的作品
     - 一键统计最近6个月,目标国家所有 Chapter 的活动情况
     - 对不同的活动规模进行了颜色表达
-    - ![tools-gdg-report.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/tools-gdg-report.png)
+    - ![tools-gdg-report.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/tools-gdg-report.png)
 
 ## G+
 
 宏观认识: `weibo+bbs+facebook+...` Google 的SNS 服务
 
 关键常识: G+ 帐号
-![plus-accounts.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-accounts.png)
+![plus-accounts.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-accounts.png)
 
 如上图所示:
 
@@ -193,25 +193,25 @@ tags:  gdg guider paper
 ### 创建Events
 首先切换为 珠海GDG 的 G+ 帐号:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-zhgdg.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-zhgdg.png)
 
 然后进入 Events:
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-events.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-events.png)
 
 点击 `Creat Event`
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-event-creat.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-event-creat.png)
 
 填写合适的消息,然后 `invite` ~ 邀请成员或是公开分享:
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-event-share.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-event-share.png)
 
 任何时候都可以返回 G+ Events 页面,增补内容:
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-events-edit.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-events-edit.png)
 
 ### 传播Events
 
 在 Events 或是 G+ 首页的消息块界面中, 点击分享 ,即那个右甩 `小箭头`:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-post-share.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-post-share.png)
 
 `因为`:
 
@@ -226,12 +226,12 @@ tags:  gdg guider paper
 另外,在进行分享时,一定要使用
 固定的 Hashtag: `#gdg #report #2014 #zhuhai`
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-post-hashtag.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-post-hashtag.png)
 
 - 因为这能帮助  Google 统计 GDG 活动的各种数据
 
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-post-hashtag-effect)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-post-hashtag-effect)
 
 从直观体现上, Hashtab 能在每个 post 边条上形成对应的动态标签.
 
@@ -240,7 +240,7 @@ tags:  gdg guider paper
 
 可以理解为 G+ 版的 QZone/Dz!
 
-![plus-comm.png](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-comm.png)
+![plus-comm.png](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-comm.png)
 
 任何人都可以创建不限制数量的 Community,
 当然,也可以同时加入不限数量的 Commuinty!
@@ -248,7 +248,7 @@ tags:  gdg guider paper
 珠海GDG 对应的G+ Community 是:
 [ZhuHai GDG](https://plus.google.com/b/113382777332300419074/communities/104258079165358533994)
 
-![plus-comm-home](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/plus-comm-home)
+![plus-comm-home](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/plus-comm-home)
 
 可以看到,能在 Commuinty 中分析消息/图片/链接/活动/视频...
 
@@ -262,11 +262,11 @@ tags:  gdg guider paper
 
 - 自个儿的官方合法自述页面,比如: [GDG Zhuhai](https://developers.google.com/groups/chapter/113382777332300419074/) 
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-zhgdg.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-zhgdg.png)
 
 - 全球Google 技术线上会议日程:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-conference-calendar.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-conference-calendar.png)
 
 
 当然的,要操作 DevSite 首先要成为成员:
@@ -283,14 +283,14 @@ tags:  gdg guider paper
 
 在发布了 G+ Events 之后,我们才能创建对应的 DevSite 会议日程:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-conferences-creat.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-conferences-creat.png)
 
 - 点击 红色的 `CREAT CONFEREBCE`
 
 填写和 G+ Events 完全类似的消息,
 但是,要注意几点:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-conference-pub.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-conference-pub.png)
 
 - `Associated Groups` ~ 关键群组, 一定要选择对应的社区, 我们是 `GDG Zhuhai`
 - `Tags` 就是标准的 Hashtag, 一定要包含 `GDG` 
@@ -309,24 +309,24 @@ tags:  gdg guider paper
 
 的数据!
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-conference-Metrics.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-conference-Metrics.png)
 
 另外,也必须在 `Manage Organizers` 页面中增补必要的组织者帐号:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-organizers.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-organizers.png)
 
 - 珠海要求一定要统一追加 `Zoom.Quiet@gmail.com`
 - 这样才能确保 大妈在 `Event Organizer Dashboard` 界面中可以统一进入所有 Coference 页面:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-events.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-events.png)
 
 再有,其实,所有组织者/成员,都应该在 DevSite Conference 界面点击: `I'll be There`:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-imthere.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-imthere.png)
 
 而,以上的折腾都是为了这儿:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/devsite-groups-plus.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/devsite-groups-plus.png)
 
 能 `合法爱国` !
 
@@ -345,11 +345,11 @@ tags:  gdg guider paper
 
 唯一的技巧可能就是权限的绑定:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/driver-share-cfg.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/driver-share-cfg.png)
 
 可以使用自然的邮件列表地址!
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/driver-acl-groups)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/driver-acl-groups)
 
 从而批量/动态授权给一堆相关成员!
 
@@ -393,7 +393,7 @@ tags:  gdg guider paper
 
 综上发布了 [GDG珠海OKRs自省统计](https://docs.google.com/spreadsheet/ccc?key=0AgPxePCteZKodGEtMC1GMGJCUkpKT2U4aGZvOEtNZEE&usp=drive_web#gid=1)
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/okrs-items.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/okrs-items.png)
 
 - 以组织者和 Events 为主要坐标
 - 复合了: 活动数量/活动日期/贡献分类
@@ -434,11 +434,11 @@ tags:  gdg guider paper
 
 并基于 Docs 的简单内置统计公式进行了合计:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/okrs-sum-item.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/okrs-sum-item.png)
 
 为了便于实时观察到所有组织者的贡献值,进行了双重合计:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/okrs-sum-all.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/okrs-sum-all.png)
 
 ### Merge
 通过 Driver 服务和 MailChimp 的打通,
@@ -457,7 +457,7 @@ tags:  gdg guider paper
 
 ## 文章复制:
 
-![](http://zoomq.qiniudn.com/ZHGDG/wechat/zhgdg-guider/bbs-copy.png)
+![](http://0.zoomquiet.top/ZHGDG/wechat/zhgdg-guider/bbs-copy.png)
 
 这样可以将在对应 Chapter 版块中的文章,快速发布到对应的
 
