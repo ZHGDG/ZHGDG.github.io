@@ -18,8 +18,8 @@ tags:  gdg event DevFest summary
 
 <!--more-->
 
+![map2xcurrency](https://ipic.zoomquiet.top/2019-08-15-map2xcurrency-1.jpeg)
 
-![map2xcurrency](https://ipic.zoomquiet.top/2019-08-15-map2xcurrency.jpeg)
 
 ## 活动:
 - 报名: [Chromium\+APISIX GDG珠海 MeetUp](https://www.meetup.com/Zhuhai-GDG/events/263962960/)
@@ -60,11 +60,5 @@ Chromium 是 Chrom 的开源版本, 已经有很多厂商基于这一工程拓�
 
 
 > NN 3740
-
-
-    .o.
-    ..o
-    ooo
-
 
 
