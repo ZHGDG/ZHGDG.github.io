@@ -38,7 +38,7 @@
 2. 有种 ~ 至少不能是成功学吧!
 </pre>
 
-<p>有好物的,及时向大妈们吼: <a href="mailto:support@zhgdg.org">support@zhgdg.org</a>
+<p>有好物的,及时向大妈们吼: <a href="mailto:zhgdg-organizing-volunteers@googlegroups.com">zhgdg-organizing-volunteers@googlegroups.com</a>
 <br/>
 通过邮件列表投稿也成: 
 <b><a href="mailto:gdg-zhuhai@googlegroups.com">gdg-zhuhai@googlegroups.com</a>
