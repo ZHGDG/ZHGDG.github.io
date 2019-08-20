@@ -29,7 +29,7 @@ tags:  gdg event DevFest summary
 - 内容:
     + [weolar/miniblink49](https://github.com/weolar/miniblink49)
         * a lighter, faster browser kernel of blink to integrate HTML UI in your app. 
-        * 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+        * 一个小巧,轻量的浏览器内核,用来取代wke和libcef
     + 和 Headless Chrome 有什么不同?
     + 为什么有知名厂商直接把代码拿去改个名字就开始卖钱?
     + ...
