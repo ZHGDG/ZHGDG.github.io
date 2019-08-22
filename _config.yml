@@ -53,7 +53,7 @@ authors:
         coderwall: jeremy_tchao
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: zhgdg2gitcafe
+#disqus: zhgdg2gitcafe
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-34850864-1
