@@ -17,7 +17,7 @@
     通过 珠海GDG 可以:
 </p> 
 <pre>
-    第一时间获知谷歌最新的技术,
+    第一时间获知谷歌最新技术,
     可以学到如何去谷歌平台上赚钱的思路和方法,
     可以认识很多有可能将来一起走上自己创业道路的人,
     可以学会把你的创新带向国际市场,
@@ -38,14 +38,11 @@
 2. 有种 ~ 至少不能是成功学吧!
 </pre>
 
-<p>有好物的,及时向大妈们吼: <a href="mailto:zhgdg-organizing-volunteers@googlegroups.com">zhgdg-organizing-volunteers@googlegroups.com</a>
-<br/>
-通过邮件列表投稿也成: 
+<p>有好物请及时通过邮件列表投稿成也: 
 <b><a href="mailto:gdg-zhuhai@googlegroups.com">gdg-zhuhai@googlegroups.com</a>
     </b>
 <br/>
-  (可发空邮件到 gdg-zhuhai+subscribe@googlegroups.com 即完成订阅)
-
+  (发空邮件到 gdg-zhuhai+subscribe@googlegroups.com 即完成订阅)
 </p>
 
 <h3>微信公号</h3>
@@ -60,7 +57,7 @@
     海选文章(hd:得要相信,大妈法眼)
 </pre>
 
-<p>总之! 请大家告诉大家,  <code>珠海生活中的技术社区</code> 都来订阅吧!</p>
+<p>总之, 请大家告诉大家,  <code>珠海生活中的技术社区</code> 都来订阅呗 ;-)</p>
 
 <h4>订阅方法</h4>
 
