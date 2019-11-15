@@ -30,13 +30,13 @@ tags:  gdg event DevFest summary
 - 1330~ 签到
 - 1342~ 开场介绍
 - 1400~ HeadSpin 全新测试平台
-- 1440~ TensorFlow 2.0新特性及开发实践
-- 1530~ 休息, 合照
-- 1545~ 5G 畅想曲
-- 1630~ 休息, 合照
-- 1642~ Python进阶 成书故事
+- 1435~ NLP应用原理
+- 1520~ 休息, 合照
+- 1525~ TensorFlow 2.0新特性及开发实践
+- 1605~ 5G 畅想曲
+- 1645~ Python进阶 成书故事
     + http://interpy.eastlakeside.com/#
-- 1730~ 结束
+- 1717~ 结束
 
 
 ## 讲师:
@@ -54,6 +54,11 @@ tags:  gdg event DevFest summary
 ![李楠](http://ydlj.zoomquiet.top/ipic/2019-11-12-ScreenShot%202019-11-12%2019.58.07.jpg)
 
 - IFANR主笔，常年跟踪移动互联网。曾任 NEC （日本东京）在线 ERP 系统构架师， Monstar-Lab （日本东京）移动社交和游戏产品经理，幸会 （中国北京） co-founder 。
+
+
+![gl](http://ydlj.zoomquiet.top/ipic/2019-11-11-191116GAE-NLP.jpeg?imageView2/2/h/360)
+
+个人简介：高扬，珠海金山办公软件有限责任公司AI工程组架构师。前重庆工商大学研究生导师。著有《白话大数据与机器学习》、《白话强化学习与Pytorch》等多本技术畅销书。
 
 
 
