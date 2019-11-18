@@ -26,6 +26,7 @@ tags:  gdg event DevFest summary
 - ![mm.jpg (JPEG Image, 362 × 209 pixels)](http://gdgzh.zoomquiet.top/events/191116devfest/foto/mm.jpg?imageView2/2/w/360)
 - 职业: 
     + 80% IT 从业人士
+        * 其中大半从 MEIZU 赶来
     + 20% 在校学生
 - 照片: [DevFest 2019 珠海 TF\+IoT\+\.\.\. \| Meetup](https://www.meetup.com/Zhuhai-GDG/events/265548933/)
 
@@ -87,9 +88,11 @@ PS:
 
 PS: 
 
-![huawei-camera.jpg (JPEG Image, 346 × 307 pixels)](http://gdgzh.zoomquiet.top/events/191116devfest/foto/huawei-camera.jpg?imageView2/2/w/360)
+![mid-grp.jpg (JPEG Image, 790 × 377 pixels)](http://gdgzh.zoomquiet.top/events/191116devfest/foto/mid-grp.jpg?imageView2/2/w/420)
 
 真的不是俺胖了, 是照相机广角畸变
+
+![huawei-camera.jpg (JPEG Image, 346 × 307 pixels)](http://gdgzh.zoomquiet.top/events/191116devfest/foto/huawei-camera.jpg?imageView2/2/w/360)
 
 ## 预约:
 ~ 珠海GDG 是你的社区, 所以, 任何嗯哼都可以嗯哼
