@@ -20,7 +20,7 @@ tags:  gdg event DevFest summary
 - session 数量: 4
     + 最后一则时间不够,只有自动放弃
 - speaker 数量: 6
-- 实到: 37
+- 实到: 39
     + 线上+ 5
 - 女性: 6
 - ![mm.jpg (JPEG Image, 362 × 209 pixels)](http://gdgzh.zoomquiet.top/events/191116devfest/foto/mm.jpg?imageView2/2/w/360)
