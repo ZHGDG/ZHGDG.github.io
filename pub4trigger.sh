@@ -15,7 +15,7 @@ VER="pub4trigger v.200306.2142"
 #DATE=`date "+%y%m%d"`
 #NOW=$(date +"%Y-%m-%d")
 
-PBIN=~/.pyenv/versions/DU363/bin
+PBIN=~/.pyenv/versions/dama2712/bin
 SELF=~/Sites/org.zhgdg/blog/
 
 GIT=$( which git)
